@@ -1,0 +1,225 @@
+Outside
+
+NOV 9TH, 2038
+AM 11:17
+
+Hank arrives alone
+
+[
+
+ -  Connor died in Public Enemy
+]
+[ HANKslight_decrease ]
+
+Hank is hostile with Connor
+
+Hank: Still immortal, huh Connor?
+Connor: In a way.
+Hank: You know, I was hoping you wouldn’t come back.
+Connor: I'm just a machine replacing another machine, lieutenant. You shouldn’t get emotional about it.
+Hank: Fuck you.
+
+Hank is not hostile with Connor
+
+Hank: Jesus Christ…
+Connor: My predecessor was unfortunately destroyed, but CyberLife transferred its memory and sent me to replace it.
+Hank: You died in my arms... and now you’re... back here as if nothing happened... Fuck you.
+
+Hank and Connor arrive together
+
+[
+
+ -  Connor didn't die in Public Enemy
+]
+
+Chris died in Capitol Park
+
+Connor: Is everything ok, lieutenant?
+Hank: Chris was on patrol last night and he got attacked by deviants… They found his body early this morning… He was executed in cold blood with his own service weapon… He became a father three months ago… Fuck, why did it have to be him?
+Connor: I didn’t know officer Miller well, but… He seemed to be a good person…
+Hank: Yeah…
+Connor: I’m sorry, Lieutenant…
+
+Chris was spared
+
+Connor: Is everything ok, lieutenant?
+Hank: Chris was on patrol last night. He was attacked by a bunch of deviants… He said he was saved by Markus himself...
+Connor: Is Chris ok?
+Hank: Yeah, he’s in shock but,… he’s alive… What the hell…
+INSTINCT
+
+Connor: I have a bad feeling, lieutenant. We shouldn’t have come here.
+Hank: Bad feeling, huh? Should get your program checked. Might be a glitch…
+LEAD
+
+Connor: How did you find Kamski?
+Hank: I remember this guy was all over the media when CyberLife first started selling androids… I made a few calls, here we are.
+KAMSKI
+
+Connor: Kamski left CyberLife ten years ago… Why did you wanna meet him?
+Hank: This guy created the first android to pass the Turing test. And he's the founder of CyberLife. Anybody can tell us about deviants, it's him…
+CHRIS
+
+[
+
+ -  Connor and Hank arrived separately
+]
+
+Chris was spared
+
+Connor: I heard Officer Chris was attacked by deviants last night.
+Hank: Yeah, he was in the wrong place at the wrong time… but he got lucky… He said that this Markus intervened to save him… He’s still in shock but... at least he’s alive…
+
+Chris was killed
+
+Connor: I heard Officer Miller was killed by deviants last night. My condolences, lieutenant. I didn’t know him very well but... he seemed like a good person.
+Hank: He was executed in cold blood with his own service weapon… Just became a father three months ago… Fuck, why did it have to be him?
+
+Hank: Hi… Uh... I'm, er, Lieutenant Hank Anderson, Detroit Police Department. I'm here to see Mr. Elijah Kamski.
+Chloe: Please, come in.
+Hank: Okay.
+Chloe: I’ll let Elijah know you’re here. But please, make yourself comfortable.
+Inside
+
+Hank: Nice girl…
+SINCERE
+
+Connor: You're right... she's really pretty…
+ANALYTICAL
+
+Connor: An RT600. The first CyberLife android to pass the Turing test.
+Hank: I didn't ask for her technical specs… I just said she was nice…
+INDIFFERENT
+
+Connor: It's not a girl. It's an android that looks like a girl.
+Hank: I know what it is, Connor…
+
+Hank: Nice place… Guess androids haven’t been a bad thing for everybody… So, you’re about to meet your maker, Connor. How does it feel?
+IMPATIENT
+
+Connor: Kamski is one of the great geniuses of the 21st century. It'll be interesting to meet him in person.
+DISTANT
+
+Connor: I don't know... I'll tell you when I see him.
+INDIFFERENT
+
+Connor: It doesn't raise any existential questions... if that's what you mean.
+
+Hank: Sometimes I wish I could meet my creator face to face… I'd have a couple of things I'd wanna tell him…
+Analysing photo of Amanda and Kamski
+
+Connor: Amanda…
+
+Chloe: Elijah will see you now.
+Hank: Mister Kamski?
+Kamski: Just a moment, please.
+Hank: I'm Lieutenant Anderson. This is Connor.
+Kamski: What can I do for you, Lieutenant?
+Hank: Sir, we’re investigating deviants. I know you left CyberLife years ago but, I was hoping you'd be able to tell us something we don’t know…
+Kamski: Deviants… Fascinating, aren't they? Perfect beings with infinite intelligence, and now they have free will… Machines are so superior to us, confrontation was inevitable… Humanity’s greatest achievement threatens to be its downfall. Isn’t it ironic?
+HELP
+
+Connor: We need to understand how androids become deviants. Do you know anything that could help us?
+DEVIANTS
+
+Connor: Something in the deviants’ program seems to emulate emotion. We thought you might know something about how that occurs.
+VIRUS
+
+Connor: Deviancy seems to spread like some kind of virus. We thought you might know something about that.
+WAR
+
+Connor: If a war breaks out between humans and deviants, millions could die, Mr. Kamski. It's quite a serious matter.
+
+Kamski: All ideas are viruses that spread like epidemics... Is the desire to be free a contagious disease?
+Hank: Listen, I didn’t come here to talk philosophy. The machines you created may be planning a revolution. Either you can tell us something that'll be helpful, or we will be on our way.
+Kamski: What about you, Connor? Whose side are you on?
+NEUTRAL
+
+Connor: I have no side. I was designed to stop deviants and that’s what I intend to do.
+DEFENSIVE
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+Connor: It's not about me, Mr. Kamski. All I want is to solve this case.
+DIRECT
+
+Connor: I’m on the humans’ side, of course.
+
+Kamski: Well, that's what you're programmed to say… but you… what do you really want?
+AGGRESSIVE
+
+Connor: I believe we’re the ones asking the questions.
+DEFENSIVE
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+Connor: I’m sorry, but I don’t see where you're getting at.
+TROUBLED
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+Connor: What I want is not important.
+NEUTRAL
+
+Connor: I don’t want anything. I am a machine.
+
+Kamski: Chloe? I’m sure you’re familiar with the Turing test. Mere formality, simple question of algorithms and computing capacity. What interests me is whether machines are capable of empathy. I call it "the Kamski test", it's very simple, you'll see… Magnificent, isn't it? One of the first intelligent models developed by CyberLife. Young and beautiful forever. A flower that will never wither… …But what is it really? Piece of plastic imitating a human? Or a living being... With a soul... It's up to you to answer that fascinating question, Connor. Destroy this machine and I'll tell you all I know. Or spare it, if you feel it's alive, but you'll leave here without having learnt anything from me.
+Hank: Okay, I think we’re done here. Come on, Connor. Let's go. Sorry to get you outta your pool.
+Kamski: What's more important to you, Connor? Your investigation, or the life of this android? Decide who you are. An obedient machine… Or a living being endowed with free will…
+Hank: That's enough! Connor, we’re leaving.
+Kamski: Pull the trigger
+Hank: Connor, don’t…
+Kamski: and I'll tell you what you wanna know.
+SHOOT
+
+[ SOFTWARE INSTABILITYlarge_decrease ]
+
+[ HANKlarge_decrease ]
+
+Hank: Fuck…
+Kamski: Test negative. You chose your investigation over the life of another android. You feel no empathy. I'm a man of my word. Ask one question... I'll tell you all I know.
+RA9
+
+Connor: I want to know who rA9 is.
+Kamski: rA9, the origin, the first android to awaken… A strange phenomenon, like a spontaneous religion… I don't know who rA9 is. I don’t even know if it really exists. Maybe it’s a messiah. Maybe it’s just a myth… but deviants need to believe in something bigger than themselves, even if it’s irrational... That’s something they have in common with humans… An interesting question, Connor… but maybe not the one you needed to ask…
+JERICHO LOCATION
+
+Connor: I want to know where Jericho is.
+Kamski: Jericho… A place where androids are free. A place for deviants, who rise up against their creators!.. They transmit a piece of code to each other, in order to find their sanctuary. Now you have the key. Ferndale Station is the door.
+VIRUS
+
+Connor: I want to know how deviancy spreads.
+Kamski: Androids share identification data when they meet another android. An error in this program would quickly spread like a virus, and become an epidemic. The virus would remains dormant, until an emotional shock occurs… Fear, anger, frustration. And the android becomes deviant. Probably all started with one model, copy error… A zero instead of a one… Unless of course... Some kind of spontaneous mutation. That’s all I know… An interesting question, Connor. But I doubt my answer be very helpful to you.
+
+Kamski: A war is coming... you’ll have to choose your side… Will you betray your own people or stand against your creators? I wouldn't like to be in your shoes, Connor… What could be worse than having to choose between two evils?
+DON'T SHOOT
+
+[ SOFTWARE INSTABILITYlarge_increase ]
+
+Kamski: Fascinating… CyberLife's last chance to save humanity... is itself a deviant…
+Connor: I'm… I'm not a deviant…
+Kamski: You preferred to spare a machine rather than accomplish your mission. You saw a living being in this android. You showed empathy. A war is coming, you’ll have to choose your side… Will you betray your own people or stand up against your creators? What could be worse than having to choose between two evils?
+Hank: Let's get outta here…
+
+Kamski: By the way… I always leave an emergency exit in my programs… You never know…
+Leaving Kamski's house
+
+Connor shot Chloe
+
+Hank: You shot that girl, for fuck’s sake…
+Connor: It wasn't a girl, Lieutenant. It was a machine that looked like a girl.
+Hank: You put your gun against her head and you blew her fucking brains out!
+Connor: I did what I had to do to advance the investigation and I'd do it again if I had to!
+Hank: You're a lowlife! You don't feel a thing, do you? A machine! That's what you are! You're just a fucking machine…
+Connor: Of course I'm a machine, Lieutenant. What did you think I was?
+Hank: I thought you… I thou-… Fuck.
+
+Connor didn't shoot Chloe
+
+[ HANKlarge_increase ]
+
+Hank: Why didn’t you shoot?
+Connor: I just saw that girl's eyes… and I couldn't, that's all…
+Hank: You’re always saying you would do anything to accomplish your mission. That was our chance to learn something, and you let it go...
+Connor: Yeah, I know what I should've done! I told you I couldn’t. I’m sorry, okay?
+Hank: Maybe you did the right thing.

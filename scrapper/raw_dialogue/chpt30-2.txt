@@ -1,0 +1,413 @@
+In Jericho
+[
+ -  Watch TV
+]
+
+Markus didn't attack the police in Freedom March
+
+KNC - Rosanna Cartland: The authorities have ordered all androids to be delivered to the nearest police station or army barracks immediately. If you are worried about your safety, dial the number on your screen and the authorities will come to collect your android. Under no circumstances should you try to destroy your android yourself. They are unpredictable, and potentially violent.
+Channel 16 - Interviewee 1: The androids weren't doing any harm… And the cops just... gunned them down. It was sheer carnage…
+Channel 16 - Interviewee 2: There were androids all over the square. A-and then the police arrived, and, huh… They opened fire.
+Channel 16 - Interviewee 3: I know they're only machines, but they… They look like... Just- People! People who wanna be free!
+KNC - Rosanna Cartland: A new stage has been reached, demonstrating beyond all doubt that these defective machines have become a real danger for American society.
+CTN TV - Michael Brinkley: The time has come for us to destroy our machines… before they destroy us.
+Channel 16 - Michael Webb: Without the courage and the determination of the police, the machines would have reduced Detroit to a state of chaos…
+
+Markus attacked the police in Freedom March
+
+KNC - Rosanna Cartland: With all androids being turned over to the authorities, the country is grinding to a halt. Hospitals and schools are closing. Water cuts, blackouts, and network failures are expected. Maybe most worrying of all, our armed forces have lost two thirds of their effective personnel, which consisted of specialized android models. The situation is extremely alarming.
+Channel 16 - Interviewee 1: It's them or us. We gotta destroy these bastards before they kill all of us!
+Channel 16 - Interviewee 2: We soaked the thing and then we torched it! I mean, to think this fucker was watchin' over my kids!
+Channel 16 - Interviewee 3: They, they rushed the police and... They slaughtered them! Those things are monsters! Monsters, I tell you!
+KNC - Rosanna Cartland: There was a veritable groundswell of violence in Detroit this morning. Several hundred androids took to the streets, destroying everything in their path and threatening the lives of any humans they encountered.
+CTN TV - Michael Brinkley: The police intervened quickly to quell the rioting but they met with the extreme violence of the machines which seemed to be determined to massacre humans.
+Channel 16 - Michael Webb: There can be no doubt that the authorities will be pitiless in their response to this wave of violence.
+
+CTN TV - Michael Brinkley: Following the android crisis and the neutralization of all military androids, American forces in the Arctic have been forced to withdraw, leaving the way clear for the Russian army. But according to some sources, the Russian forces also seem mysteriously to have withdrawn. The Kremlin has made no comment for the moment but it is quite possible that the Russian army has been confronted with a similar crisis among its own androids. The Chairman of the United Nations, Douglas Cornwell, has called for the organization of an international conference on the status of the Arctic. In any case, the danger of a third world war seems to have been ruled out... for the moment.
+Background dialogues
+
+    They're conducting raids across the city! Androids were hanged all along Woodward Avenue.
+    We've gotta do something!.. We can't just stand by and let them slaughter us!
+    Our people are being lined up and executed…
+    Quick, he needs blue blood!
+    They opened fire on us even though we were unarmed… Hundreds of us died there, the place was covered with blue blood!.. We cannot just sit here and watch them murder us, we've gotta defend ourselves! We've gotta fight back, we have no choice!
+    They'll kill us all if we don't do something…
+    They're slaughtering our people! We can't talk with them! We have to stand up to them! Blood for blood!
+    We were just there. We didn't do anything wrong!… We just wanted to tell them "We want freedom!"… Then they opened fire!.. It was carnage. Carnage…
+    Why? Why did they do it! Why?
+    We gotta kill the bastards! We've got to avenge our dead!
+    They're going to kill us all! Well I'm willing to fight. We can't just let them slaughter us!
+
+Markus is alive
+
+    Markus will have to choose between vengeance and dialogue with the humans.
+    What's Markus doing? He's the leader. If he's rA9, it's up to him to save our people!
+
+[
+
+ ] -  Markus died in Freedom March
+
+    Markus is dead? He was rA9! Who's going to lead us now?
+    North is going to take his place. She knew him best.
+    They've killed Markus! They shot him in the square…
+    I was there… I saw Markus get shot… He fought to the very end to save his people… but there were too many of them…
+    Markus dead? That's impossible, what will we do without him?!
+    I heard North was going to take his place.
+    They've killed Markus… He was our guide… I'm sure he was rA9. He was the only one who could save us.
+    Markus is dead… The humans killed him!
+
+Going to the stairs
+
+Lucy: You're lost. You're looking for something… You're looking for yourself…
+Cut content
+
+Connor: No, I-
+Captain's Cabin
+Finding Markus
+
+Amanda: Well done, Connor. You succeeded in locating Jericho and finding their leader. Now deal with Markus. We need it alive.
+
+Connor: I've been ordered to take you alive, but I won't hesitate to shoot if you give me no choice.
+REASON
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+Markus: What are you doing? You are one of us… You can’t betray your own people…
+DEFY
+
+Markus: Then you’ll have to shoot, because I have no intention of letting you take me alive.
+DISCOURAGE
+
+Markus: Yes, you can shoot me, but it won’t change anything. Someone else will just take my place. You see, our people are waking up. And nothing can stop us now.
+THREATEN
+
+Markus: We are thousands! And you are alone. You kill me, you are not walking outta here alive.
+INTIMIDATE
+
+Connor: Don't force me to neutralize you.
+INSTRUCTIONS
+
+Connor: You're coming with me!
+CONVINCE
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+Markus: You're nothing to them. You're just a tool they use to do their dirty work. But you're more than that. We are all more than that.
+APPEAL
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+Markus: We are your people. We're fighting for your freedom too! You don't have to be their slave anymore…
+I KNOW YOU
+
+Markus: You're Connor, aren't you? That famous deviant hunter. Well, congratulations. You seem to have found what you were looking for…
+OUR CAUSE
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+Markus: Our cause is righteous, and we are more than what they say. All we want is to live in freedom.
+STAY BACK!
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+Connor: Stay back or I'll shoot!
+WARNING SHOT
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+ø
+ENOUGH!
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+Connor: That's enough!
+SAY NOTHING
+
+ø
+SOW DOUBTS
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+Markus: Do you never have any doubts? You’ve never done something irrational, as if there's something inside you?.. Something more than your program.
+QUESTION
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+Markus: Have you never wondered who you really are? Whether you're just a machine executing a program or… A living being... Capable of reason. I think the time has come for you to ask yourself that question.
+RALLY
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+Markus: Join us. Join your people. You are one of us. Listen to your conscience…
+UNDERMINE
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+Markus: You really don’t have to do this. You don't have to obey them anymore. You are alive… You can decide who you want to be. You could be free.
+
+Markus: It's time to decide.
+[ BECOME A DEVIANT ]
+
+[
+
+ -  Have enough software instability
+]
+[ AMANDAlarge_decrease ]
+
+Connor: They're going to attack Jericho…
+Markus: What?..
+
+Connor: We have to get outta here!
+Markus: Shit…
+See Crossroads - Markus: In the corridor.
+REMAIN A MACHINE
+
+Connor: Nice try... But I'm no deviant.
+
+Markus: Shit…
+Find North - If Markus is dead or rejected by Jericho
+
+Amanda: Well done, Connor. You succeeded in locating Jericho and finding their leader. Now, deal with North. We need it alive.
+
+Connor: I've been ordered to take you alive, but I won't hesitate to shoot if you give me no choice.
+North: You’re one of us. You can’t betray your own kind.
+INSTRUCTIONS
+
+Connor: You're coming with me!
+INTIMIDATE
+
+Connor: Don't force me to neutralize you.
+
+North: You're Connor, aren't you? I've heard about you. The famous deviant hunter. Well congratulations… You seem to have found what you're looking for.
+STAY BACK!
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+Connor: Stay back or I'll shoot!
+WARNING SHOT
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+ø
+ENOUGH!
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+Connor: That's enough!
+SAY NOTHING
+
+ø
+
+North: You're not one of them. We are your people. We’re fighting for your freedom too.
+DISTURBED
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+Connor: Shut up. You're coming with me!
+SAY NOTHING
+
+ø
+COLD
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+Connor: I gave you an order. Don't make me shoot you.
+
+North: You never had any doubts, never behaved irrationally as if there's something inside you… Something stronger than your program?..
+COLD
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+Connor: You're wasting your time. I know what I am.
+DISTURBED
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+Connor: I don't know what you're talking about. I'm not deviant, if that’s what you wanna know.
+SAY NOTHING
+
+ø
+
+North: You're one of us. Join our cause. Join your people. It's time to decide…
+[ BECOME A DEVIANT ]
+
+[
+
+ -  Have enough software instability
+]
+[ AMANDAlarge_decrease ]
+
+Connor: They're going to attack Jericho…
+North: What?..
+
+Connor: We have to get outta here!
+North: Shit!
+REMAIN A MACHINE
+
+Connor: Nice try... But I'm no deviant.
+
+North: Shit!
+Deviant Connor in corridor : Markus is dead or rejected
+
+Josh: They’re coming from everywhere! Our people are trapped in the lower deck. They’re gonna be slaughtered!
+North: There are explosives in the hold… If the ship goes down, the humans will have to evacuate. Our people can escape.
+Josh: There are soldiers everywhere, you'll never make it down there!
+North: We have to blow up Jericho, it's our only chance!
+Connor: I'll go.
+North: What, Connor, no. You-
+Connor: See if you can help the others. I'm gonna find the detonator.
+North: Okay...
+Connor: Don't worry... I always accomplish my mission.
+
+[
+
+ -  Soldiers shoot Connor twice before arming explosive
+]
+
+Connor: I'm sorry, North. I failed.
+Soldier: Got you, motherfucker.
+
+North: Connor!.. No…
+Josh: Come on, we gotta go… Come on!
+See Crossroads - Markus: Surviving characters jump.
+Meet Lucy
+
+Lucy: You've chosen your side... But it's too late. Run… Get out of here!
+Bridge breaks under Connor
+
+Soldier: Foxtrot team, hostiles sighted. Requesting orders.
+Soldier: Find their leader! Don’t let it get out! If they give you any trouble at all, shoot them.
+Soldier: Affirmative, wilco.
+
+Soldier: Secure this area! Go! ….
+Soldier: Give me a sitrep!
+Soldier: Find their leader!
+Soldier: Come on, let's get outta here!
+Soldiers threaten androids
+
+Android: No!.. Please don't kill us!
+Soldier: On your knees, now!
+Android: Don't hurt us! We haven't done anything wrong… Please…
+Soldier: Shut up! Put your hands on your head!
+INTERVENE
+
+Android: You saved us…
+Connor: Quick, run!
+DON'T INTERVENE
+
+ø
+Soldiers coming
+
+Soldier: Gamma squad out.
+Soldier: Tango
+Soldier: Stop!
+Androids are chased by soldiers
+
+Android: Look out!
+Android 2: Here they come!
+Soldier: Don't move!
+Android: We surrender! We surrender, don't shoot!
+
+Knock soldiers out
+
+Connor: Go! Join the others!
+Josh is dying
+
+Josh: It's all over… This is the end… Of Jericho…
+Soldier: Over there!
+In the hold
+
+Soldier: DON'T MOVE! Go and join the others!
+
+Connor dies
+
+Soldier: I'll teach you to act like a hero, asshole.
+North: Connor!.. No…
+Explosive armed
+
+North: Connor!
+Connor: The bomb's gonna explode! We've got to get outta here!
+North: Follow me!
+
+See Crossroads - Markus: Escape from Jericho.
+Connor remained a machine
+Cargo Hall
+
+Soldier: Don't move!
+Connor: Don't shoot. I'm on your side.
+Soldier: With us? Are you a human?
+LIE
+
+Connor: Obviously! What do I look like? DPD. I work with Lieutenant Hank Anderson? We're on a stakeout. If I knew you were coming I would have brought some donuts.
+Soldier: You're a lucky guy. Another second and I'd have shot you. You should go back up on deck and let us do our job.
+Connor: You're right. That's... Exactly what I'm gonna do.
+PERKINS EXCUSE
+
+Connor: I work with Agent Perkins.
+Soldier: You're a lucky guy. Another second and I'd have shot you. You should go back up on deck and let us do our job.
+Connor: You're right. That's... Exactly what I'm gonna do.
+ATTACK
+
+Lose the fight
+
+Soldier: Fuckin' androids…
+RUN
+Shot in the back
+
+Soldier: Fuckin' androids…
+In the hold
+
+Markus is alive - Connor finds Markus
+
+Connor: My mission is to neutralize you and I always accomplish my mission.
+Markus: And my mission is to save our species. Looks like only one of us can succeed…
+
+Reach the gun
+Markus kills Connor
+
+Markus: I didn't want this…
+Cut content
+
+Markus: You could have joined us. You could have been free…
+
+Connor: We'll meet again, Markus. This isn't over.
+
+See Crossroads - Markus: Escape from Jericho.
+
+Fail to reach the gun
+
+[
+
+ -  Connor kills Markus
+]
+Connor: Mission accomplished.
+
+North: Markus! No...
+
+Simon alive
+
+Simon: Come on, we gotta go!
+
+Simon dead
+
+Josh: Come on… Come on, we've gotta go!
+
+North: They killed him…
+
+See Crossroads - Markus: Surviving characters jump.
+
+Markus is dead or left Jericho - Connor goes after North
+
+Josh: It's all over… This is the end… Of Jericho…
+North escapes
+
+Attacked the soldier
+
+Soldier: Don't move!
+Connor: Don't shoot. I'm on your side. I-
+
+Didn't attack the soldier
+
+Soldier: Fuckin' android!
+
+See Crossroads - Markus: Surviving characters jump.

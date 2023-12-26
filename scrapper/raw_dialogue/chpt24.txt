@@ -1,0 +1,363 @@
+In the Zen Garden
+
+NOV 8TH, 2038
+PM 04:06
+
+Amanda: Hello, Connor. I thought you might enjoy a little cruise… I love this place… Everything is so calm and peaceful… Far from the noise of the world… Tell me, what have you discovered?
+HANK
+
+[
+
+ ] -  Hank shot Connor in The Bridge
+
+Connor: I’m having difficulties with Lieutenant Anderson. He’s unstable, even hostile. He shot me in the head last night…
+
+Hank left Connor alone in The Bridge
+
+Connor: My relationship with Lieutenant Anderson is problematic. He continues to struggle with psychological issues… I suspect it clouds his judgement regarding deviants.
+Amanda: Nothing matters more than your investigation. What’s happening is too important. Don’t let Anderson or anyone else get in your way.
+EDEN CLUB
+
+Connor didn't find the Tracis in The Eden Club
+
+[ AMANDAslight_decrease ]
+
+Connor: I went to the Eden Club… but I didn’t learn anything new…
+Amanda: That's disappointing. Looks like another missed opportunity.
+
+Connor found the Tracis in The Eden Club and let them go
+
+[ AMANDAslight_decrease ]
+
+Connor: I found two deviants at the Eden Club… I hoped to learn something but… they managed to escape…
+Amanda: That's too bad... You seemed so close to stopping them.
+
+Connor found the Tracis in The Eden Club and they died
+
+[ AMANDAslight_increase ]
+
+Connor: I found two deviants at the Eden Club… I hoped to learn something but… I had to destroy them…
+
+Amanda: You seem… lost, Connor. Lost and perturbed…
+[ SINCERE ]
+
+[
+
+ -  Spared the Tracis in The Eden Club
+]
+[ AMANDAslight_decrease ]
+
+Connor: I thought I knew what I had to do… but now I realize it’s not that simple…
+DETERMINED
+
+Connor: I’m just frustrated with my lack of progress, but I’m determined to accomplish my mission.
+COLD
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+Connor: The investigation is more challenging than I anticipated, but I have no doubt that I will solve this case and stop the deviants.
+TROUBLED
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+[ AMANDAslight_decrease ]
+
+Connor: Perturbed? No… No, of course not. Why would I be perturbed?
+
+Connor spared the Tracis in The Eden Club
+
+Amanda: You had your gun trained on those deviants at the Eden Club. Why didn’t you shoot?
+TOO FAR
+
+Connor: They were out of range. If I had the opportunity to stop them, why wouldn’t I?
+Amanda: You tell me.
+NO USE
+
+Connor: We need the deviants intact for analysis. Shooting them wouldn’t have told us anything.
+TRUTH
+
+[ AMANDAlarge_decrease ]
+
+Connor: I don’t know… I don’t know.
+
+Amanda: If your investigation doesn’t make progress soon, I may have to replace you, Connor…
+CONFLICTED
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+Connor: I understand.
+CONFIDENT
+
+[ AMANDAslight_increase ]
+
+Connor: I know I will succeed. All I need is time.
+INDIFFERENT
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+[ AMANDAlarge_increase ]
+
+Connor: I am of no importance. The mission is all that matters.
+
+Amanda: Something’s happening… Something serious. Hurry, Connor. Time is running out.
+In the tower
+
+[
+
+ ] -  Hank shot Connor in The Bridge
+
+Connor: Why did you shoot me last night?
+Hank: Who cares, you're back this morning, aren't ya?
+Connor: Some fragments of memory are lost every time I’m destroyed. It slows down the investigation.
+Hank: My humblest apologies, I promise I’ll never shoot you again.
+Connor: Thank you, Lieutenant.
+
+Hank didn't shoot Connor in The Bridge
+
+Hank: You’re starting to piss me off with that coin, Connor.
+Connor: Sorry, Lieutenant.
+
+Elevator: 79th floor
+
+Chris: Hi, Hank.
+Hank: Shit, what's going on here? There was a party and nobody told me about it?
+Chris: Yeah, it's all over the news, so everybody’s butting their nose in… Even the FBI wants a piece of the action…
+Hank: Ah Christ, now we got the Feds on our back… I knew this was gonna be a shitty day… So what do we got?
+Chris: A group of four androids… They knew the building, and they were very well organized. I'm still trying to figure out how they got this far without being noticed.
+
+Cop 1: The fuck is the FBI doing here?
+Cop 2: You kidding me? This is homeland security. I’m glad they’re on it.
+
+Cop 1: You check the roof?
+Cop 2: Not yet… There’s so much to look at.
+Cop 1: Have to make sure we check it out.
+
+Cop 1: Has forensics turned up anything?
+Cop 2: I’ll check in with them.
+Cop 1: These fucking androids don’t even leave any DNA…
+
+Knocked out the guards in The Stratford Tower
+
+Chris: They attacked two guards in the hallway... They probably thought the androids were coming to do maintenance. They got taken down before they could react…
+
+Attacked the guards in The Stratford Tower
+
+Chris: They attacked two guards in the hallway. They knocked one out and shot the other in cold blood…
+
+Station employee wasn't shot in The Stratford Tower
+
+Chris: One of the station employees managed to get away. He's in shock, not sure when we’ll be able to talk to him…
+
+Station employee was shot in The Stratford Tower
+
+Chris: A station employee… shot to the back as he was trying to get away. One bullet straight through the heart, from fifty feet… Now, that's the kind of shooting only an android could do.
+
+Hank: How many people were working here?
+Chris: Just two employees and three androids. The deviants took the humans hostage and broadcast their message live. They made their getaway from the roof.
+Hank: The roof?
+Chris: Yeah, they jumped with parachutes… We’re still trying to figure out where they landed, but the weather’s not helping… If you want to take a look at the video broadcast by the deviants, it's on that screen over there.
+
+Chris: Oh Lieutenant, this is Special Agent Perkins from the FBI. Lieutenant Anderson is in charge of investigating for Detroit Police.
+Perkins: What’s that?
+Connor: My name is Connor. I'm the android sent by CyberLife.
+Perkins: Androids investigating androids, huh? You sure you want an android hanging around?.. After everything that happened… Whatever, the FBI will take over the investigation, you'll soon be off the case.
+Hank: Pleasure meeting you. Have a nice day.
+Perkins: And you watch your step. Don't fuck up my crime scene.
+Hank: What a fuckin' prick!
+Chris: I’ll be nearby. If you need anything, just ask.
+Hank: Uh, let's have a look around… Let me know if you find anything.
+Connor: Ok, Lieutenant.
+Investigating
+
+Going near the kitchen - Talking to the cop from The Hostage
+
+[
+
+ -  Saved the wounded cop in The Hostage
+]
+Cop: Connor?.. You remember me? I was on that terrace… That android that took the little girl hostage? I was shot, you saved me…
+
+Connor didn't die before
+
+Connor: I remember you.
+Cop: I could have died on that terrace… But you saved my life… I never thought I'd say this to an android, but… Thank you…
+
+[
+
+ ] -  Connor died in The Hostage
+
+Connor: Sorry, you must be mistaken.
+Cop: Of course… That couldn't be you… That Connor was destroyed... I would have died on that terrace… Connor saved my life… Even if it wasn’t you… I just wanted to say… Thank you…
+
+[
+
+ ] -  Connor died after The Hostage
+
+Connor: Sorry, you must be mistaken.
+Cop: I would have died on that terrace… Even if it wasn’t you… I just wanted to say… Thank you…
+Check CCTV
+
+Connor: They didn't break in?
+Chris: No, no sign of forced entry.
+Connor: There are cameras in the hallway. The staff would have seen what was happening… Why did they let them in?
+Hank: Maybe they didn't check the cameras…
+Chris: We stored the station androids in the kitchen. There's no evidence that they were involved but we didn’t know what else to do with them.
+Looking at the speech
+
+Hank: Think that's rA9?
+Connor: Deviants say rA9 will set them free. This android seems to have that objective.
+Hank: D'you see something?
+Connor: I identified its model and serial number…
+Hank: Anything else I should know?
+Connor: No. Nothing.
+[
+ ] -  Taking too much time / Ask Hank to leave
+
+Connor: I think we have seen everything there is to see.
+Hank: You wanna go?
+YES
+
+Connor: Yes.
+Hank: Ok, we're outta here.
+NO
+
+Connor: Actually, I'll have another look around.
+Hank: You're the boss.
+In the kitchen
+Interrogate the androids
+FUNCTION
+
+Connor: What is your function?
+Android: I am a broadcast operator.
+MODEL
+
+Connor: State your model.
+Android: Model JB300, Serial number 336 445 581.
+WITNESS
+
+Connor: Were you present when the deviants broke in?
+Android: I do not remember.
+MEMORY
+
+Connor: Has anybody accessed your memory recently?
+Android: Not to my knowledge.
+DIAGNOSTIC
+
+Connor: Run a diagnostic.
+Android: All systems fully operational.
+CONTACT
+
+Connor: Have you been in contact with any other androids recently?
+Android: Only station androids in the normal course of my function.
+
+If Connor checked the CCTV, the dialogue will continue. Otherwise, he can come back later to resume the dialogue here.
+
+Connor: One of you saw the attack on the surveillance cameras and said nothing. Which means there is a deviant in this room… and I’m going to find out which it is.
+THREATEN
+
+Connor: You’re going to be switched off. We're gonna search your memory and tear you apart piece by piece for analysis. You’re going to be destroyed! Do you hear me? Destroyed!
+DEAL
+
+Connor: If you give yourself up, maybe I can convince the humans not to destroy you.
+GUILT
+
+Connor: Why should you all be destroyed, if only one is deviant? Turn yourself in, or two innocent androids will be shut down because of you.
+VIOLENCE
+
+Connor: You scumbag! I know it's you! You're just a fucking deviant. Go on, admit it!
+BLUFF
+
+Connor: The deviants have just been caught… They gave you up. There's no point in lying. We know everything.
+TORTURE
+
+Connor: Biocomponent #8451... Regulates the heartbeat... Without this module, you will shut down in exactly sixty-three seconds… I could put it back… But, you just have to tell me the truth. Are you the deviant?
+PROBE MEMORY
+
+Probing the wrong android
+
+Connor: No memory.
+
+Found the deviant
+
+Connor: Hank!.. Hank, I need help!..
+
+Get the biocomponent back and go after the deviant
+
+Connor: It’s a deviant! STOP IT!
+ATTACK
+
+[ PUBLIC OPINIONslight_decrease ]
+
+[ SOFTWARE INSTABILITYlarge_increase ]
+
+Hank: Connor! Connor, are you okay?
+Connor: I tried to stop it but… I was too late.
+SAVE HANK
+
+[ PUBLIC OPINIONslight_decrease ]
+
+[ HANKlarge_increase ]
+
+Hank: Good thing you were here. Otherwise I – Connor… Connor, no…
+TAKE GUN
+
+[ HANKlarge_increase ]
+
+Hank: Nice shot, Connor.
+Connor: I wanted it alive.
+Hank: You saved... human lives… You saved my life.
+
+Fail to get the biocomponent
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+[ HANKslight_decrease ]
+
+Hank: Connor! Hang on son, hang on, hang on! We’re gonna save you, hang on!.. Here, here...
+Connor: deviant… there was… a deviant…
+Hank: Connor! Connor... No…
+
+Fail to find the deviant
+
+Connor: I think we have seen everything there is to see.
+Hank: You wanna go?
+Connor: Yes.
+Hank: Ok, we're outta here.
+On the roof
+
+Hank: They made their way up through the whole building, past all the guards and jumped off the roof with parachutes… Pretty fucking impressive I'd say.
+Analyze bag
+
+Hank: How'd they manage to smuggle in a big bag like that?
+Connor: They didn't… Someone brought it in for them.
+
+Simon was left behind alive in The Stratford Tower
+
+Hank: Oh, that's strange... They planned a perfect operation but got the number of parachutes wrong.
+Connor: Unless one of the deviants was left behind.
+Finding Simon
+
+[
+
+ -  Simon was left alive on the roof in The Stratford Tower
+]
+Connor: You have to stop them! If they destroy it, we won't learn anything!
+Hank: We can't save it, it's too late! We'll just get ourselves killed!
+CHARGE DEVIANT
+
+[
+
+ ] -  Connor dies rushing Simon
+
+Hank: Connor! Connor!... Oh Connor… Oh no…
+
+Connor reaches Simon
+
+[ SOFTWARE INSTABILITYlarge_increase ]
+
+Hank: Connor! Connor you all right? Connor!
+Connor: Okay…
+Hank: Are you hurt?
+Connor: I'm ok…
+Hank: Jesus! You scared the shit outta me… For fuck sake, I told you not to move! Why do you never do what I say?
+Connor: I was connected to its memory… when it fired… I felt it die… Like I was dying. I was scared… I saw something, in its memory… a word… painted on a piece of rusty metal … "Jericho"

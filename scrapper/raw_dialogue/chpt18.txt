@@ -1,0 +1,267 @@
+In the Zen Garden
+
+NOV 6TH, 2038
+PM 07:51
+
+Connor: Hello, Amanda.
+Amanda: Connor, I’ve been expecting you… Would you mind a little walk?
+
+Rupert wasn't caught in The Nest
+
+Ortiz's android wasn't found in Partners
+
+[ AMANDAlarge_decrease ]
+
+Amanda: Two investigations, two failures… That's very disappointing. I expected more from our best model.
+
+Ortiz's android was found in Partners
+
+Amanda: That deviant seemed to be an intriguing case. A pity you didn’t manage to capture it…
+PRAGMATIC
+
+[ AMANDAslight_increase ]
+
+Connor: I agree. I may not be suited for this investigation. Maybe you should consider replacing me.
+EXPLAIN
+
+Connor: Deviants are completely irrational, which makes it difficult to anticipate their behavior… but I should have been more effective.
+NO EXCUSE
+
+Connor: I have no excuse. I should have been more efficient.
+
+Amanda: Did you manage to learn anything?
+
+Rupert was caught in The Nest
+
+[ AMANDAlarge_increase ]
+
+Amanda: Congratulations, Connor, you managed to find that deviant. Tell me, what did you learn?
+
+[
+
+ ] -  Connor died in The Nest
+
+[ AMANDAslight_decrease ]
+
+Amanda: The last Connor was unfortunately destroyed. Its memory has been transferred to you, but some data may have be lost in the process… I hope that you will be more careful.
+Connor: I will do my best, Amanda.
+Amanda: So, what did we learn?
+[ DEVIANT ]
+
+[
+
+ -  Found Rupert's ID in The Nest
+]
+While this option is supposed to be unlocked by finding Rupert's ID, it seems that it's actually impossible to access it in the game.
+Connor: It was working under a false identity, at a nearby urban farm. This was the first time we’ve seen deviants blending in with the human population. Who knows how many others there are like it?
+[ DIARY ]
+
+[
+
+ -  Found Rupert's diary in The Nest
+]
+Connor: I found its diary, but it was encrypted. It may take weeks to decipher.
+[ SIGNS ON WALLS ]
+
+[
+
+ -  Observed the signs on the wall in The Nest
+]
+Connor: The walls of the apartment were covered with drawings of labyrinths and other symbols. Like the other deviants, it seemed obsessed with rA9.
+BIRDS
+
+Connor: It was fascinated by birds. We’ve seen deviants interested in other lifeforms like insects or pets, but nothing like this.
+
+Amanda will always answer this after the first choice
+Amanda: What else?
+
+Amanda will always answer this after the second choice
+Amanda: You came very close to capturing that deviant…
+
+Connor caught Rupert in The Nest
+
+[ AMANDAslight_decrease ]
+
+Amanda: It's a pity you let it self-destruct…
+EXCUSE
+
+Connor: It was in Lieutenant Anderson’s custody. I couldn’t anticipate that he would let it get away.
+HESITATED
+
+[ AMANDAslight_decrease ]
+
+Connor: It claimed that it was innocent, that it didn’t do anything wrong... I was confused for a moment… It was a mistake.
+LAST WORDS
+
+Connor: I made a mistake… It said “rA9 save me” before it jumped from the roof. I should have anticipated what it would do.
+EXPLAIN
+
+Connor: I knew deviants had a tendency to self-destruct under extreme stress, but I didn’t expect it to jump from the roof. I should have anticipated that.
+
+Connor failed to catch Rupert in The Nest
+Cut content
+
+Amanda: How did it manage to get away?
+TRUTH
+
+Connor: Lieutenant Anderson was in danger. I had to choose between pursuing the deviant or saving a human life.
+Amanda: If we don’t stop the deviants, millions of people will be in danger. How important is the life of a single police lieutenant by comparison?.. Nothing should distract you from your mission, Connor. Nothing.
+Connor: Yes, Amanda.
+LIE
+
+Connor: It knew the urban farm very well, it knew where to go… I did everything I could but I lost it…
+Amanda: I see…
+
+Amanda: How is your relationship with the Lieutenant developing?
+[ SAVING HANK ]
+
+[
+
+ -  Saved Hank in The Nest
+]
+Connor: He seemed grateful that I saved his life on the roof. He didn’t say anything, but he expressed it in his own way...
+[ CONNOR’S DEATH ]
+
+[
+
+ -  Connor died before
+]
+Connor: He seems to find it difficult when a Connor is destroyed and replaced. I know humans have difficulty dealing with loss. Working with him will be a challenge if it happens again.
+NEGATIVE
+
+Connor: He is openly hostile towards me, and continues to show no interest in the investigation. Cooperating with him is a real challenge.
+AMBIGUOUS
+
+Connor: It’s improving. I’m coming to know him better, and he’s growing accustomed to my presence.
+POSITIVE
+
+Connor: It’s improving. I’ve come to understand him better, and he’s growing accustomed to my presence.
+Cut content
+
+Amanda: Interesting… Tell me, Connor… What happened with the AX400 that escaped?
+
+Kara not found
+
+Connor: I couldn’t find any evidence of it on the scene. It must have escaped before we arrived, unless it was a false lead.
+
+Found Kara, obeyed Hank
+
+Amanda: Why didn’t you keep chasing it onto the highway?
+RATIONAL
+
+Connor: Lieutenant Anderson ordered me not to go. I thought the deviant would be destroyed anyway.
+EXCUSE
+
+Connor: Lieutenant Anderson ordered me not to go.
+Amanda: Why are you following his orders?.. You only have one responsibility, Connor: catching deviants.
+Connor: Yes, Amanda.
+TROUBLED
+
+Connor: I knew there was a high risk of me being destroyed… I thought it was better for the investigation if I stayed safe…
+
+Found Kara, chased her and survived
+
+Connor: Fleeing across the highway was a totally irrational decision. They still haven't found it yet, but it was almost certainly destroyed.
+
+Found Kara, chased her and died
+
+Connor: Fleeing into the highway was a totally irrational decision. I was close to apprehending it, until I was destroyed.
+
+Amanda: We don't have much time. Deviancy continues to spread. It’s only a matter of time before the media finds out about it. We need to stop this, whatever it takes.
+Connor: I will solve this investigation, Amanda. I won’t disappoint you.
+Amanda: A new case just came in. Find Anderson and investigate it.
+Arriving at Hank's house
+
+Taxi: You have reached your destination. Thank you for travelling with Detroit Taxis. We look forward to seeing you again soon.
+Connor: Lieutenant Anderson? Anybody home?
+Going through the window
+
+Connor knows Sumo's name
+
+[
+
+ -  Asked Hank about his dog in Waiting for Hank...
+]
+Connor: Argh!.. Easy!.. Sumo… I'm your friend, see?.. I know your name... I'm here to save your owner…
+
+Connor doesn't know Sumo's name
+Connor: Argh!.. Easy!.. Dog… I'm… I'm not gonna hurt you… I'm here to save your owner…
+
+Connor: Lieutenant? Wake up, Lieutenant! It's me, Connor!
+
+[
+
+ ] -  Connor died in The Nest
+
+[ HANKslight_decrease ]
+
+Hank: Connor?.. Oh, you're not Connor… Connor's dead! I know he's dead!..
+Connor: The previous model was destroyed. I'm the new Connor.
+
+Connor: I’m going to sober you up for your own safety.
+Hank: Hey!.. Leave me alone, you fuckin' android!
+Connor: I have to warn you, this may be unpleasant.
+Hank: Get the fuck outta my house!
+Connor: I'm sorry, Lieutenant, but I need you. Thank you in advance for your cooperation.
+Hank: Hey! Get the fuck outta here! Sumo! Attack! Good dog. Attack! Fuck, I think I'm gonna be sick… Ah! Leave me alone, you asshole! I'm not going anywhere… What the hell are you doing?.. I don’t wanna bath, thank you…
+Connor: Sorry, Lieutenant. It's for your own good.
+Hank: TURN IT OFF! TURN IT OFF! What the fuck are you doing here?
+Connor: A homicide was reported 43 minutes ago. I couldn’t find you at Jimmy’s bar, so I came to see if you were at home.
+Hank: Jesus, I must be the only cop in the world that gets assaulted in his own house by his own fuckin' android… Can’t you just leave me alone?
+RATIONAL
+
+Connor: Unfortunately, I cannot. I've been programmed to investigate this case and I can't do it without you.
+Hank: I don't give a shit about your goddamn case!
+Connor: Lieutenant, you’re not yourself. You should-
+AGGRESSIVE
+
+Connor: If you're unable to conduct this investigation, I'll have to inform your superiors.
+Hank: Go ahead! Tell them I don’t give a shit!
+Connor: Lieutenant, you’re not yourself! You should-
+SOLUTION
+
+Connor: You seem to have personal issues. You should consult a professional who can help you.
+PRAGMATIC
+
+Connor: Maybe you should drop the case. They'll assign someone else and I can focus on my mission.
+Hank: Your goddamn mission, that’s all you care about, huh?
+Connor: Listen, Lieutenant, you’re not yourself. You should-
+
+Hank: Beat it! You hear me?! Get the hell outta here!
+TEASE
+
+Connor: I understand. It probably wasn’t interesting anyway... A man found dead in a sex club downtown… Guess they’ll have to solve the case without us…
+LEAVE
+
+Connor: I understand. I sincerely hope you come to terms with your personal situation.
+Hank: This homicide… what do we know about it?
+Connor: A man was found dead in a sex club downtown. The report says that an android may be involved.
+
+Hank: You know, probably wouldn't do me any harm to get some air… There're some clothes in the bedroom there.
+Connor: I'll go get them. What do you want to wear?
+Hank: Whatever.
+Connor: Are you all right, Lieutenant?
+Hank: Yeah... yeah... wonderful… Just a… Give me five minutes, okay?
+Connor: Sure.
+Investigating Hank's house
+[
+ -  Watch TV
+]
+
+Michael Brinkley - CTN TV: President Warren issued an official warning to Russia in her speech to Congress today, where she demanded that all Russian troops withdraw from the Arctic region immediately. The Kremlin has yet to respond, but this is clearly a new escalation in the conflict. Many experts are suggesting the specter of a third world war draws closer every day…
+Listening to the door of the bathroom
+
+Connor: Are you ok, Lieutenant?
+Looking at the broken window
+
+Connor: Sorry about the window, Lieutenant. I really thought you'd been attacked. Of course, CyberLife will pay for the damage.
+Hank: Yeah, trust me, I'll send 'em a bill…
+Looking at the gun
+QUESTION
+
+Connor: What were you doing with the gun?
+Hank: Russian roulette! Wanted to see how long I could last... Must've collapsed before I found out…
+Connor: You were lucky, the next shot would have killed you.
+Hank is ready
+
+Hank: Be a good dog, Sumo. I won’t be long.

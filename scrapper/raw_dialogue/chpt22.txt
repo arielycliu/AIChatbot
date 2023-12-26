@@ -1,0 +1,267 @@
+At Ambassador Bridge
+
+NOV 7TH, 2038
+AM 01:19
+
+Hank: Nice view, huh?... I used to come here a lot before…
+PERSONAL QUESTION
+
+Connor: Can I ask you a personal question, Lieutenant?
+Hank: Do all androids ask so many personal questions or is it just you?
+
+If Connor didn't look at the photo in Russian Roulette, no choice will be given and the dialogue will go directly to the SUICIDE option.
+PHOTO
+
+[
+
+ -  Looked at Cole's photo in Russian Roulette
+]
+[ HANKslight_decrease ]
+
+Connor: I saw a photo of a child... on your kitchen table. It was your son, right?
+Hank: Yeah… His name was Cole.
+SUICIDE
+
+Connor: Why are you so determined to kill yourself?
+Hank: Some things, I just can't forget… Whatever I do, they’re always there… Eating away at me… I don’t have the guts to pull the trigger… So, I kill myself a little every day… That's probably difficult for you to understand, huh, Connor? Nothing very rational about it…
+STOP DRINKING
+
+Connor: You should stop drinking, Lieutenant. It could have serious consequences for your health.
+Hank: That's the idea.
+BEFORE
+
+Connor: Before what?
+Hank: Hm?
+Connor: You said "I used to come here a lot before". Before what?
+Hank: Before… Before nothin'…
+GO BACK
+
+Connor: It's late. Maybe you should go home.
+Hank: I'm not tired… Guess neither are you.
+
+Connor: We’re not making any progress on this investigation… The deviants have nothing in common. They’re all different models, produced at different times, in different places…
+Hank: Well, there must be some link.
+RA9
+
+[
+
+ -  Looked at rA9 clues in previous chapters
+]
+Connor: What they have in common is this obsession with rA9… It’s almost like some kind of... myth. Something they invented that wasn't part of their original program…
+Hank: Androids believing in God… Fuck, what’s this world coming to?
+SHOCK
+
+Connor: We know the deviants experienced... an emotional shock, a violent trauma or a sense of injustice…
+Hank: Those girls at the Eden Club, sure had a reason to feel a sense of injustice…
+SYSTEMS
+
+Connor: It could be a hardware problem... maybe a defective biocomponent?
+Hank: Well, I don’t know much about biocomponents… but I bet that’s not the fucking reason…
+SOFTWARE
+
+Connor: It could be a software problem... that... only occurs under certain conditions?
+Hank: Well, that’s just a fancy way of saying you have no fucking idea…
+
+Connor: You seem preoccupied, Lieutenant… Is it something to do with what happened back at the Eden Club?
+
+Found the Tracis in The Eden Club
+
+Hank: Those two girls… They just wanted to be together… They really seemed in love…
+RATIONAL
+
+Connor: They can simulate human emotions, but they’re machines. And machines don’t feel anything.
+DEVIANTS
+
+Connor: They didn't want anything. They're deviants. End of story.
+IRONIC
+
+Connor: You seem troubled, Lieutenant. I didn't think machines could have such an effect on you…
+COLD
+
+[ HANKslight_decrease ]
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+Connor: Nothing in their program allows them to love or desire anything. They're machines.
+
+[
+
+ -  Took too much time looking for the Traci in The Eden Club
+]
+
+Hank: I wish we'd have found that girl that killed that guy… Maybe she had a reason… Maybe she was just defending herself…
+COLD
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+[ HANKslight_decrease ]
+
+Connor: What difference would it make? We know what happened. A defective machine killed a human.
+IRONIC
+
+Connor: You seem troubled, Lieutenant. I didn't think machines could have such an effect on you…
+RATIONAL
+
+Connor: It didn't want anything, Lieutenant. It was a deviant. That's all there is to it.
+
+Hank: What about you, Connor?... You look human, you sound human, but what are you really?
+COLD
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+[ HANKslight_decrease ]
+
+Connor: I'm a machine, designed to accomplish a task.
+AGGRESSIVE
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+[ HANKslight_decrease ]
+
+Connor: I'm a machine, designed to accomplish a task. I know why I exist and who designed me. I have a reason to live. I guess that's the difference between us, Lieutenant.
+DEFENSIVE
+
+Connor: You know exactly what I am. In any case, I don’t see how that’s relevant to the investigation.
+NEUTRAL
+
+[ HANKslight_increase ]
+
+Connor: I’m whatever you want me to be, Lieutenant. Your partner... Your buddy to drink with... Or just a machine... Designed to accomplish a task.
+
+Connor spared the Tracis
+
+Hank: You could've shot those two girls, but you didn't. Why didn't you shoot, Connor? Hm? Some scruples suddenly enter into your program?
+LIE
+
+[ HANKslight_decrease ]
+
+Connor: I would've shot them if I could. Why would I let them escape?
+TRUTH
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+[ HANKslight_increase ]
+
+Connor: No… I just decided not to shoot, that's all…
+
+Connor shot the Tracis in the back
+
+Hank: Did you feel anything when you shot those two girls, fucking bastard? Or were you just executing some program?
+COLD
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+[ HANKslight_decrease ]
+
+Connor: All I did was neutralize two machines, Lieutenant. I didn’t hesitate for a second, if that’s what you’re asking.
+DEFENSIVE
+
+Connor: This is going nowhere, Lieutenant. I think I'll go back to the station.
+AGGRESSIVE
+
+[ HANKslight_decrease ]
+
+Connor: I’m glad to see you taking an interest in machines, Lieutenant. Who knows, maybe you'll even become useful to the investigation at some point…
+NEUTRAL
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+[ HANKslight_decrease ]
+
+Connor: I did what I was programmed to do. I didn't have any doubts, if that's what you're asking.
+
+Connor shot one Traci
+
+Hank: Did you feel anything when that girl killed herself, Connor? Or did you just not give a shit one way or the other?
+DISTURBED
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+Connor: I was just executing instructions. I did what I had to do.
+COLD
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+[ HANKslight_decrease ]
+
+Connor: Of course, I didn't feel anything, Lieutenant... I'm a machine.... Machines don't have emotions.
+
+Connor didn't find the Tracis
+
+Hank: Nothing else matters to you but your goddamn investigation, huh? No doubts, no mistakes, no weaknesses… Human being, just like me… Only perfect…
+DEFENSIVE
+
+Connor: You should stop drinking, Lieutenant. Alcohol makes you aggressive.
+CYNICAL
+
+Connor: I believe your personal issues are clouding your judgement.
+UNDERSTANDING
+
+Connor: Nothing matters more to me than this investigation. But I understand if you have a different point of view.
+NEUTRAL
+
+Connor: I'm sorry, but... I don't see what you're getting at.
+
+[
+
+ ] -  Connor died before
+
+Hank: I could kill you... And you would just come back as if nothing happened.
+
+Hank: But are you afraid to die, Connor?
+YES
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+Connor: I would certainly find it regrettable to be... interrupted... before I can finish this investigation.
+NO
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+[ HANKslight_decrease ]
+
+Connor: Why would I be afraid?
+NOT ALIVE
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+[ HANKslight_decrease ]
+
+Connor: You can’t kill me, Lieutenant. I’m not alive.
+LOGICAL
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+[ HANKslight_decrease ]
+
+Connor: You shouldn't do that, Lieutenant. Destroying me at this point would deal a blow to the investigation, and have negative consequences for your personal situation.
+
+Hank: What will happen if I pull this trigger? Hm? Nothing? Oblivion? Android heaven?
+DEFY
+
+[ HANKslight_decrease ]
+
+Connor: You know you're not going to shoot me, Lieutenant. You're just trying to provoke a reaction. I'm afraid I'm going to have to disappoint you.
+Hank: You think you’re so fucking smart… Always one step ahead, huh? Tell me this, smart ass... How do I know you’re not a deviant?
+Connor: I self-test regularly. I know what I am, and what I am not.
+HANK'S ANGER
+
+Connor: Where does all your anger come from, Lieutenant? Some... unresolved trauma in your past?
+Hank: You think you’re so fucking smart… Always one step ahead, huh? Tell me this, smart ass... How do I know you’re not a deviant?
+Connor: I self-test regularly. I know what I am, and what I am not.
+IRONIC
+
+Connor: I doubt there's a heaven for androids.
+Hank: Having existential doubts, Connor? Sure you're not going deviant too?
+Connor: I self-test regularly. I know what I am, and what I am not.
+NOTHING
+
+Connor: Nothing… There would be nothing…
+
+Hank left Connor alone
+
+[
+ -  Hank isn't hostile
+]
+Connor: Where are you going?
+Hank: To get drunker. I need to think.

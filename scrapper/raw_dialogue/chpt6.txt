@@ -1,0 +1,283 @@
+At Jimmy's Bar
+
+NOV 5TH, 2038
+PM 11:21
+Passing the guests
+
+Derek Myers: Shit, I thought androids weren’t allowed in here!
+Christopher Gray: What's your problem? You wanna buy me a drink? That's what I thought…
+Kim Yo-Han: The fuck you looking at?
+Dennis Ward: Hey, get outta here!
+Bartender exchanges money
+
+Jimmy Peterson: You gotta get a girlfriend, pal.
+Bartender refills drink
+
+Jimmy Peterson: There you go, my friend.
+Talking to Hank
+
+Connor: Lieutenant Anderson, my name is Connor. I’m the android sent by CyberLife. I looked for you at the station but nobody knew where you were. They said you were probably having a drink nearby. I was lucky to find you at the fifth bar.
+Hank: What do you want?
+Connor: You were assigned a case early this evening. A homicide, involving a CyberLife android. In accordance with procedure, the company has allocated a specialized model to assist investigators.
+Hank: Well, I don’t need any assistance. Specially not from a plastic asshole like you. So just be a good lil' robot and get the fuck outta here.
+REASON
+
+Connor: Listen, I think you should stop drinking and come with me. It'll make life easier for both of us.
+THREATEN
+
+[ HANKslight_decrease ]
+
+Connor: Lieutenant Anderson, I must inform you that I intend to file a report on your behavior.
+UNDERSTANDING
+
+Connor: I understand that some people are not comfortable in the presence of androids but I am-
+Hank: I am perfectly comfortable… Now back off, before I crush you like an empty beer can!
+PERSIST
+
+[ HANKslight_decrease ]
+
+Connor: I'm sorry, Lieutenant, but I must insist. My instructions stipulate that I have to accompany you.
+Hank: You know where you can stick your instructions?
+Connor: No... where?
+Hank: Never mind.
+SPILL HIS DRINK
+
+[ HANKlarge_decrease ]
+
+Connor: I think we can go now.
+Hank: You little prick! I don't know what's stopping me from knocking you out…
+Connor: Your sense of duty, Lieutenant. And the cost of repairs if you damage me. For your information, I'm worth a small fortune.
+Hank: Wonders of technology… They can even program assholes these days… Gotta go! Duty calls…
+BUY HIM ANOTHER DRINK
+
+[ HANKlarge_increase ]
+
+Connor: You know what? I'll buy you one for the road. What do you say? Bartender, the same again, please!
+Hank: See that, Jim? Wonders of technology… Make it a double. Did you say homicide?
+WAIT OUTSIDE
+
+Connor: I apologize, Lieutenant. I didn't mean to bother you. I'll wait for you outside. Take your time.
+Hank: Did you say homicide?
+At the crime scene
+
+Hank: You wait here. I won't be long.
+PATIENT
+
+[ HANKslight_increase ]
+
+Connor: Whatever you say, Lieutenant.
+Hank: Fucking-A, whatever I say…
+FIRM
+
+[ HANKslight_decrease ]
+
+Connor: No way! I'm coming with you.
+Hank: Listen, you really have to stop pissing me off if you wanna make it through the rest of the night in one piece.
+DIPLOMATIC
+
+[ HANKslight_increase ]
+
+Connor: My instructions are to accompany you to the crime scene, Lieutenant.
+Hank: Listen, I don’t give a fuck about your instructions. I told you to wait here, so you shut the fuck up and you wait here.
+
+Journalist: Joss Douglas, for Channel 16. Can you confirm that this is a homicide?
+Hank: I'm not confirming anything.
+Bystander dialogues
+
+    My god! What happened in there?
+    Typical DPD… They don’t tell us shit!
+    Have they said anything?
+    I didn't even know there was someone living there…
+    I always knew that guy was a fucking creep.
+    How long before the whole fuckin' country’s underwater?
+
+Following Hank
+
+Police android: Androids are not permitted beyond this point.
+Hank: It's with me.
+
+Didn't pick [ FIRM ]
+
+Hank: What part of ‘stay in the car’ didn’t you understand?
+Connor: Your order contradicted my instructions, Lieutenant.
+
+Hank: You don't talk, you don't touch anything and you stay outta my way, got it?
+Connor: Got it,
+
+Ben: Evening, Hank. We were starting to think you weren’t gonna show…
+Hank: Yeah, that was the plan until this asshole found me.
+Ben: So... you got yourself an android, huh?
+Hank: Oh, very funny. Just tell me what happened.
+Ben: We had a call around eight from the landlord. The tenant hadn't paid his rent for a few months, so he thought he'd drop by, see what was going on… That’s when he found the body… Jesus, that smell! Was even worse before we opened the windows… The victim’s name's Carlos Ortiz. He has a record for theft and aggravated assault... According to the neighbors, he was kind of a loner… Stayed inside most of the time, they hardly ever saw him.
+Hank: Uh, state he’s in... Wasn’t worth calling everybody out in the middle of the night… Could've waited 'til morning.
+Ben: I'd say he's been there for a good three weeks. We'll know more when the coroner gets here. There's a kitchen knife over here… Probably the murder weapon…
+Hank: Any sign of a break-in?
+Ben: Nope… The landlord said the front door was locked from the inside, all the windows were boarded up. The killer must've gone out the back way.
+Hank: What do we know about his android?
+Ben: Not much. The neighbors confirmed he had one, but it wasn't here when we arrived… I gotta get some air. Make yourself at home. I'll be outside if you need me.
+Hank looking at writing on wall
+
+Hank: Each letter is perfect… It’s way too neat, no human writes like this. Chris, was this written in the victim's blood?
+Chris: I would say so… We’re taking samples for analysis.
+Taking blood sample
+
+Hank: Err, Jesus! What the hell are you doing?
+Connor: I'm analyzing the blood. I can check samples in real time. I'm sorry, I should have warned you…
+Hank: Ok, just… don't… put anymore evidence in your mouth, you got it?
+Connor: Got it.
+Hank: Fucking hell, I can't believe this shit…
+Analysing victim
+
+Connor: He was stabbed 28 times.
+Hank: Yeah, seems like the killer really had it in for him.
+Hank looking at Red Ice
+
+Hank: Red ice… Seems our friend Carlos liked to party… Chris, I want full analysis on the narcotics.
+Chris: Consider it done, Lieutenant.
+Background dialogues
+
+Chris: Hey, Mike, you finished taking samples there?
+CSI: Yeah, that’s it.
+
+CSI: What’s keeping the Coroner? He should've been here a half hour ago…
+Chris: He’s on his way. It won’t be long now.
+
+Chris: Come on, guys, get a move on. We don’t wanna be here all night.
+CSI: Don’t worry, no one wants to stay here a minute longer than they have to…
+
+Chris: There’s something weird in the bathroom. Did you take a look?
+CSI: Yeah, I scanned the lot. Better see with Ben when we can start bagging the evidence.
+Looking at the garden
+
+Hank: Door was locked from the inside. Killer must've gone out this way…
+Connor: There are no footprints, apart from officer Collins' size 10 shoes.
+Hank: Well, this happened weeks ago. Tracks could've faded.
+Connor: No, this type of soil would've retained a trace. Nobody's been out here for a long time.
+[
+ -  TAKE TOO MUCH TIME
+]
+
+Hank: All right… I’m outta here. Thanks for the ride. Great party.
+Connor: Wait, Lieutenant! I can’t stay if you leave.
+Hank: Much as it breaks my heart, this is where we part ways.
+Connor: I just need five minutes to finish my investigation.
+
+Chose to spill Hank's drink
+
+[ HANKslight_decrease ]
+
+Hank: You spill a man’s drink, you piss him off all evening, and then you ask for a favor? Fuck you.
+Ends the investigation
+
+Chose to buy Hank a drink
+
+Connor: Please, Lieutenant. Remember the drink I bought you at the bar? Just five minutes.
+Hank: Five minutes.
+Connor: Thank you, Lieutenant.
+Hank: Whatever!
+
+Chose to wait outside
+
+Hank: Five minutes.
+Connor: Thank you, Lieutenant.
+Hank: Whatever!
+Taking too much time again
+
+[ HANKslight_decrease ]
+
+Hank: Okay, time's up. I’m outta here. Have a nice evening, Sherlock. Don't let the door hit you on the way out.
+Ends the investigation
+Talking to Hank
+
+Connor: Lieutenant, I think I’ve figured out what happened.
+Hank: Oh yeah? Shoot. I’m all ears.
+
+Connor: It all started…
+…IN THE KITCHEN
+
+Connor: …in the kitchen.
+…IN THE LIVING ROOM
+
+Connor: …in the living room.
+Hank: I think you should look harder at the mess in the kitchen... I think that’s where it all started.
+…IN THE BATHROOM
+
+Connor: …in the bathroom.
+Hank: I think you should look harder at the mess in the kitchen... I think that’s where it all started.
+
+Hank: There're obvious signs of a struggle... The question is, what exactly happened here…
+Connor: I think the victim attacked the android…
+…WITH THE BAT.
+
+Connor: …With the bat.
+Hank: That lines up with the evidence… Go on.
+…WITH THE KNIFE.
+
+Connor: …With the knife.
+…WITHOUT A WEAPON.
+
+Connor: …Without a weapon.
+THE ANDROID STABBED THE VICTIM.
+
+Connor: The android stabbed the victim.
+Hank: So the android was trying to defend itself, right?.. Okay, then what happened?
+Connor: The victim fled to…
+THE ANDROID THREW THE CHAIR.
+
+Connor: The android threw the chair.
+THE VICTIM STABBED THE ANDROID.
+
+Connor: The victim stabbed the android.
+… THE LIVING ROOM.
+
+Connor: … the living room.
+Hank: And he tried to get away from the android… All right, that makes sense…
+…THE GARDEN.
+
+Connor: …the garden.
+…THE BATHROOM.
+
+Connor: …the bathroom.
+
+Connor: The android murdered the victim…
+…WITH THE KNIFE
+
+[ HANKslight_increase ]
+
+Connor: …with the knife.
+Hank: Ok, your theory's not totally ridiculous… but it doesn’t tell us where the android went.
+Connor: It was damaged by the bat… and lost some Thirium…
+Hank: Lost some what?
+Connor: Thirium. You call it “Blue Blood”. It’s the fluid that powers androids' biocomponents. It evaporates after a few hours and becomes invisible to the naked eye.
+Hank: Oh… But I bet you can still see it, can't you?
+Connor: Correct.
+Hank: Yeah…
+[ HANKslight_increase ]
+
+…WITH THE BAT.
+
+Connor: …With the bat.
+…WITHOUT A WEAPON.
+
+Connor: …without a weapon.
+
+After a wrong answer, Hank will say one of those lines. After three mistakes, he will leave.
+Hank: No, that can’t be right… It doesn’t fit the evidence.
+Hank: Your story makes no sense… You've gotta stick to the facts.
+Giving too many wrong answers
+
+[ HANKslight_decrease ]
+
+Hank: Okay, I've just hit my bullshit quota for the evening. There’s a killer on the loose and I’m wasting my time listening to an android… I’m outta here.
+Ends the investigation
+Taking a chair
+
+Hank: Hey! Hey! Hey! What are you doin’ with that chair?
+Connor: I’m going to check something.
+Hank: Huh... gonna check something.
+Searching the attic
+
+Deviant: I was just defending myself… He was gonna kill me.… I'm begging you… Don't tell them.
+Hank: Connor, what the fuck is going on up there?
+Connor: It's here, Lieutenant!
+Hank: Holy shit… Chris, Ben, get your asses in here now. Come on!

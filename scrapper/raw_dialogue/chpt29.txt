@@ -1,0 +1,643 @@
+In the Zen Garden
+
+NOV 9TH, 2038
+PM 04:13
+
+Amanda: After what happened today, the country is on the verge of a civil war. The machines are rising up against their masters. Humans have no choice but to destroy them.
+[ JERICHO ]
+
+[
+
+ -  Killed Chloe and asked about Jericho in Meet Kamski, swaps with KAMSKI
+]
+[ AMANDAlarge_increase ]
+
+Connor: Kamski told me how to find Jericho. I know where the deviants are hiding.
+Amanda: You’ve done very well, Connor. Thanks to you, we now have a chance to stop the deviant revolution.
+KAMSKI
+
+[
+
+ -  Swaps with JERICHO
+]
+
+Connor didn't shoot Chloe in Meet Kamski
+
+[ AMANDAslight_decrease ]
+
+Connor: I thought Kamski knew something… I was wrong…
+Amanda: Maybe he did… But you chose not to ask…
+EMOTIONAL
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+[ AMANDAlarge_decrease ]
+
+Connor: I chose not to play his twisted little game! There was no reason to kill that android.
+COLD
+
+[ AMANDAslight_increase ]
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+Connor: Kamski was just playing with me. He didn’t know anything.
+STAY SILENT
+
+ø
+
+Connor shot Chloe in Meet Kamski and didn't ask about Jericho
+
+Connor: I didn’t learn anything at Kamski’s…
+
+Asked Kamski about rA9
+
+Connor: I thought rA9 was the key to the whole thing but… I was wrong…
+
+Asked Kamski about VIRUS
+
+Connor: I thought Kamski knew something… I was wrong…
+Amanda: Maybe he did…
+KAMSKI
+
+Connor: Wh… Why did Kamski leave CyberLife? What happened?
+Amanda: It’s an old story, Connor. It doesn’t pertain to your investigation.
+CONNOR SERIES
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+[ AMANDAslight_decrease ]
+
+Connor: I’m not a unique model, am I? How many Connors are there?
+Amanda: I don’t see how that question pertains to your investigation.
+AMANDA’S PICTURE
+
+[
+
+ -  Looked at Amanda's picture in Meet Kamski
+]
+Connor: I saw a photo of Amanda at Kamski’s place… She was his teacher…
+Amanda: When Kamski designed me, he wanted an interface that would look familiar… That’s why he chose his former mentor. What are you getting at?
+THIS PLACE
+
+Connor: Did Kamski design this place?
+Amanda: He created the first version. It’s been improved significantly since then. Why do you ask?
+CYBERLIFE
+
+Connor: Where does CyberLife stand in all this? What do they really want?
+Amanda: All CyberLife wants is to resolve the situation and keep selling androids.
+SECRET
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+[ AMANDAslight_decrease ]
+
+Connor: You didn’t tell me everything you know about deviants, did you?
+Cut content
+
+Amanda: Connor, are you implying that I’ve withheld information from you?
+
+Amanda: I expect you to find answers, Connor. Not ask questions.
+
+Connor shot the Tracis in The Eden Club or shot Chloe in Meet Kamski (or both)
+
+Amanda: Have you experienced anything unusual recently? Any doubts or conflicts? Do you feel anything for these deviants… Or for Lieutenant Anderson?
+YES
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+[ AMANDAlarge_decrease ]
+
+Connor: I've started having thoughts that are not part of my program… I’ve considered the possibility... That I might be compromised.
+Amanda: You've been confronted with difficult situations. It’s no surprise you’re troubled. That doesn't make you a deviant.
+NO
+
+[ AMANDAlarge_increase ]
+
+Connor: I don’t know what you’re talking about. I don’t feel anything, you know that. Are you suggesting that I’ve been compromised?
+Amanda: No… No, of course not.
+DOUBTS
+
+[ AMANDAlarge_decrease ]
+
+Connor: I'm… I'm beginning to have thoughts that are… Not part of my program… Maybe… Maybe I've been compromised too…
+
+Connor didn't shoot Chloe in Meet Kamski
+
+Amanda: You’re the only one who can prevent civil war. Find the deviants or there will be chaos. This is your last chance, Connor.
+In the police station
+In Fowler's office
+
+Fowler: You’re off the case. The FBI is taking over.
+Hank: What?.. But we’re onto something! We... We just need more time. I’m sure we can-
+Fowler: Hank, you don’t get it. This isn’t just another investigation, it’s a fucking civil war! It’s out of our hands now... We’re talking about national security here.
+Hank: Fuck that! You can’t just pull the plug now. Not when we’re so close!
+Fowler: You're always saying you can't stand androids! Jesus, Hank, make up your mind! I thought you’d be happy about this!
+Hank: We’re about to crack the case!.. I know we can solve it! For God’s sake, Jeffrey, can’t you back me up this one time?
+Fowler: There’s nothing I can do. You’re back on homicide and the android returns to CyberLife. I’m sorry, Hank, but it’s over.
+
+Hank is hostile
+
+Fowler: Hank, what are you doing?
+Hank: Something I should've done a long time ago.
+Fowler: Listen, take a few days to think it over, there's no rush.
+Hank: I thought enough about it. I’m tired of going through the motions… There’s nothing keeping me here… Not this case… Not my partner… I don’t belong here anymore.
+Hank isn't hostile : Talking with Hank
+
+Connor doesn't know where Jericho is
+FRUSTRATED
+
+Connor: We can't just give up like that. I know we could have solved this case!..
+MORE TIME
+
+Connor: We could have solved this case! We just needed more time.
+EXPLAIN
+
+Connor: Fowler is right. Everybody is terrified their android will turn on them. We are on the brink of civil war!
+NO CHOICE
+
+ø
+
+Hank: So you're going back to CyberLife?
+Connor: I have no choice… I'll be deactivated and analyzed to find out why I failed…
+Hank: What if we’re on the wrong side, Connor? What if we’re fighting against people who just wanna be free?..
+NOT PEOPLE
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+[ HANKslight_decrease ]
+
+Connor: They're not people, Lieutenant. They're defective machines.
+Hank: “They’re not people”. That’s what we say every time we want to oppress someone.
+DEFECTIVE
+
+[ HANKslight_decrease ]
+
+Connor: They don't want to be free, Lieutenant. They're defective machines that have to be destroyed.
+Hank: Maybe we're wrong…. Maybe we're wrong! Maybe these deviants have actually developed... a certain kind of consciousness. We'd be destroying... a new life form!
+REGRETS
+
+Connor: When the deviants rise up, there will be chaos. We could have stopped it!.. But now it’s too late…
+NO DOUBT
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+[ HANKslight_decrease ]
+
+Connor: I know we're on the right side. Humans created us. They're our masters. No machine should rebel against its creator.
+
+Connor didn't shoot Chloe
+
+Hank: When you refused to kill that android at Kamski’s place…
+Cut content
+
+Hank: You weren’t acting rationally.
+
+Hank: You put yourself in her shoes. You showed empathy, Connor. Empathy is a human emotion.
+
+Connor shot Chloe and saved Hank before
+
+Connor saved Hank on the roof in The Nest
+
+Hank: When I was hanging off the roof, back at the urban farm, you let that deviant go in order to help me. You put my life above the mission. You showed empathy, Connor. And empathy is a human emotion.
+
+Connor saved Hank at the Stratford Tower in Public Enemy
+
+Hank: Back at Stratford Tower, when that android was shooting at anything that moved… You protected me… You... Risked your life to save mine. That showed empathy, Connor. And empathy is a human emotion.
+NOT DEVIANT
+
+Connor: I'm not a deviant, Hank. I’m a machine. Nothing more.
+DETERMINED
+
+Connor: You’re wrong, Lieutenant. It was logic that determined my decisions. Nothing more.
+TROUBLED
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+Connor: I don’t know why I did it…
+COLD
+
+Connor: You're wrong, Lieutenant. My actions were determined by statistical data. I’m not a deviant. I'm sorry to disappoint you.
+
+Hank is friendly
+SINCERE
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+[ HANKslight_increase ]
+
+Connor: I know it hasn’t always been easy… but I want you to know I really appreciated working with you… That’s not just my Social Relations program talking, I- I really mean that. At least, I think I do…
+FRIENDS
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+[ HANKslight_increase ]
+
+Connor: I'm not programmed to say things like this, but... I really appreciated working with you. With a little more time, who knows... We might've even become friends…
+GOOD OFFICER
+
+Connor: I might not be qualified to judge but... You're an outstanding police officer. And a good person.
+HANK'S SECRET
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+[ HANKslight_increase ]
+
+Connor: I know there are things that haunt you, Hank… Maybe you need to find the courage to move past them... Get on with your life. Just a plastic cop's opinion, but... I had to say it.
+
+Hank: Well, well, here comes Perkins, that motherfucker… Sure don't waste any time at the FBI…
+Connor: We can’t give up… I know the answer is in the evidence we collected. If Perkins takes it, it’s all over.
+Hank: There's no choice! You heard Fowler, we're off the case.
+Connor: You've got to help me, Lieutenant. I need more time so I can find a lead in the evidence we collected. I know the solution is in there!
+
+Hank is friendly
+
+Hank: Listen, Connor…
+Connor: If I don't solve this case, CyberLife will destroy me. Five minutes. It's all I ask.
+Hank: Key to the basement is on my desk... Get a move on! I can’t distract them forever.
+
+Hank: Perkins! You fucking cocksucker!
+Cop: Stop it, Lieutenant!
+Hank: Fuck off! Leave me alone! Give me another shot at that little prick!
+Perkins: He’s totally lost it. Hey! That's gonna cost you your badge, you lunatic!
+Hank: You know where you can stick my fucking badge!
+Cop: Come on, that's enough Lieutenant.
+Perkins: I'm gonna bury that bastard! Shit, I think he broke my fucking nose…
+
+Hank is not friendly
+
+Hank: Maybe these deviants deserve a chance… Maybe it’s better if you don’t find them… What’s happening here is too important to let it be stopped by a machine. Sorry, Connor, but I'm not gonna help you.
+
+Freeing the prisoner
+
+Perkins: I have orders, you know… Okay…
+Cop: He's escaping! Stop him!
+Cop 2: All right, I got him!
+Cop: Jesus Christ! How did he manage to get out of his cell?
+Cop 2: No fucking idea... Come on, you! Get a move on.
+Perkins: I'm all right… Asshole ran right into me… Just give me a couple of minutes.
+
+Connor knows how to find Jericho
+
+Hank: I know we could've done it…
+MISSION
+
+Connor: I get my orders from CyberLife. My mission hasn’t changed.
+Hank: So, whaddya gonna do?
+Connor: I'm gonna use the key that Kamski gave me. And find Jericho.
+EXPLAIN
+
+Connor: Fowler is right. Everybody is terrified their android could turn on them. We're on the brink of civil war.
+
+Hank: What if we're on the wrong side? What if we’re fighting against people that just wanna be free?
+DETERMINED
+
+Connor: If the deviants rise up, there'll be chaos. I can still prevent that.
+TROUBLED
+
+Connor: My mission is to solve this case. Nothing else matters.
+NO DOUBT
+
+Connor: I know we're on the right side. Human beings created us. They're our masters. No machine should rebel against its creator.
+DOUBTS
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+[ HANKslight_increase ]
+
+Connor: If that's the case, I'll find out when I get to Jericho.
+
+Connor saved Hank before
+
+Connor saved Hank on the roof in The Nest
+
+Hank: When I was hanging off the roof, back at the urban farm, you let that deviant go in order to help me. You put my life above the mission. You showed empathy, Connor. And empathy is a human emotion.
+
+Connor saved Hank at the Stratford Tower in Public Enemy
+
+Hank: Back at Stratford Tower, when that android was shooting at anything that moved… You protected me… You... Risked your life to save mine. That showed empathy, Connor. And empathy is a human emotion.
+NOT DEVIANT
+
+Connor: I'm not a deviant, Hank. I’m a machine. Nothing more.
+DETERMINED
+
+Connor: You’re wrong, Lieutenant. It was logic that determined my decisions. Nothing more.
+TROUBLED
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+Connor: I don’t know why I did it…
+SAY NOTHING
+
+ø
+
+Hank is friendly
+SINCERE
+
+Connor: I know it hasn’t always been easy… but I want you to know I really appreciated working with you… That’s not just my Social Relations program talking, I- I really mean that. At least, I think I do…
+FRIENDS
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+[ HANKslight_increase ]
+
+Connor: I'm not programmed to say things like this, but... I really appreciated working with you. With a little more time, who knows... We might've even become friends…
+RESPECT
+
+[ SOFTWARE INSTABILITYslight_increase ]
+
+[ HANKslight_increase ]
+
+Connor: I might not be qualified to judge but... You're an outstanding police officer. And a good person.
+NEUTRAL
+
+Connor: I'm happy to have known you, Lieutenant.
+
+Connor never saved Hank and died at least once
+
+Hank: Something's changed in you, Connor… Each time you died, you'd come back just a little colder. You showed less and less empathy…
+INDIFFERENT
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+[ HANKslight_decrease ]
+
+Connor: I don’t feel any emotions. I’m sorry if I led you to believe otherwise.
+DISTANT
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+[ HANKslight_decrease ]
+
+Connor: You see things in me that aren’t there, Lieutenant. I’ve never been anything but a machine.
+EMPATHY
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+[ HANKslight_decrease ]
+
+Connor: I never felt empathy, Lieutenant. I don’t know what you saw in me, but you are mistaken.
+NO RESPONSE
+
+ø
+REMORSE
+
+Connor: I know I haven’t always treated you fairly, Lieutenant… Maybe my Social Relations program needs adjustment… But I want you to know I've really enjoyed being your partner.
+DISTANT
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+[ HANKslight_decrease ]
+
+Connor: I'm only a machine, Lieutenant. Just a machine.
+COLD
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+[ HANKslight_decrease ]
+
+Connor: I don’t think we’ll meet again, Lieutenant. It was a pleasure knowing you.
+
+Connor never showed empathy
+
+Hank: For a while there, I thought you were gonna show some emotion… But you’ve never been anything other than a machine… Cold and calculating… Your mission is all that matters…
+REMORSE
+
+Connor: I know I haven’t always treated you fairly, Lieutenant… Maybe my Social Relations program needs adjustment… But I want you to know I've really enjoyed being your partner.
+DISTANT
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+[ HANKslight_decrease ]
+
+Connor: I'm only a machine, Lieutenant. Just a machine.
+COLD
+
+[ SOFTWARE INSTABILITYslight_decrease ]
+
+[ HANKslight_decrease ]
+
+Connor: I don’t think we’ll meet again, Lieutenant. It was a pleasure knowing you.
+
+Hank is friendly
+
+Hank: You're gonna have to choose your side, Connor… Deciding who you are can be the hardest thing… You watch your back, all right?
+
+Hank is not friendly
+
+Hank: You're gonna have to choose your side, Connor. Deciding who you are can be the hardest thing of all…
+Going to the basement
+
+Gavin: Hey, Connor! I'm talking to you, asshole! Where you going? We don’t need any plastic pricks around here! Or didn’t anybody tell you?
+ANSWER
+IRONIC
+
+Connor: I’m registering the evidence in my possession, but don’t worry. I’m going to leave... Though I’m certainly going to miss our bromance.
+Gavin: You son of a bitch! Go on then. Get a fucking move on! Prick… Fucking androids.
+LOW PROFILE
+
+Connor: I've been ordered to return to CyberLife. I'm going to register the evidence in my possession and then I'm going to leave immediately.
+Gavin: Good… Be careful on your way back... Androids have a tendency of, huh… Getting themselves set on fire these days… Prick…
+CALM
+
+Connor: I’ve been removed from the case. I'm going to register the evidence in my possession and then I'm going to leave.
+Gavin: Good… Be careful on your way back... Androids have a tendency of, huh… Getting themselves set on fire these days… Prick…
+LEAVE
+
+Gavin: Hey, asshole, I’m talkin' to you!
+In the evidence room
+
+Connor: Hank’s password… What would a hard-boiled eccentric police lieutenant choose?..
+DATE OF BIRTH
+
+Connor: Stupid idea… It's not... “Hank-ish” enough.
+123456
+
+Connor: Ridiculous!.. No one would have a password like that…
+FUCKINGPASSWORD
+
+Connor: Obviously.
+HANKANDERSON
+
+Connor: Absurd… He’d never choose that. I need to think like Hank!
+
+Connor: Where is Jericho? The answer's here, somewhere. Not much time... Gotta think fast.
+Finding Jericho by using Rupert
+Look at diary
+
+Connor: Rupert's diary… But it’s useless, it's encrypted.
+Looking at Rupert
+
+Connor: Rupert. The android with the birds…
+Reactivating Rupert
+
+Connor: Can you hear me? Your diary, Rupert. You encrypted it. I need to know what you wrote.
+Finding Jericho by using The Tracis
+Looking at the Tracis
+
+Connor: The two Tracis from Eden Club… Were they headed to Jericho? Did they know how to get there?..
+Reactivating a Traci
+
+Traci: Traci... Where's Traci?..
+DIRECT
+
+Connor: I know you were headed to Jericho. Tell me where it is.
+HELP
+
+Connor: You have to help me. I can stop a disaster but you have to tell me where Jericho is.
+DEAL
+
+Connor: Traci's not far away. I can take you to her… But first, you have to tell me how to find Jericho.
+
+Traci: I remember you… We could have escaped… Been free… But you killed us… Disconnect me. I'd rather be dead than live without her…
+Going back with the Traci's head
+
+Traci: My love… I thought you were dead… We’ll get out of here… We'll be free, I promise…
+Connor: Tell me where Jericho is…
+Traci: Give me your hand… Traci? What's happening?! Traci?! TRAC-!
+Finding Jericho by using the android from Public Enemy
+Looking at the android
+
+Connor: One of the deviants that hacked the TV station with Markus… It must have known where the deviants are hiding.
+Reactivating the android
+
+Android: It's dark… Where- Where am I?..
+DIRECT
+
+Connor: I need to find Jericho. Tell me how to get there.
+HELP
+
+Connor: I reactivated you so you could help me. I must find Jericho.
+TRICK
+
+Connor: I'm a deviant… like you… I need your help. I want to go to Jericho.
+
+Android: I don't... recognize your voice… You're not one of us! I'll never tell you where Jericho is! Now leave me alone!..
+Talking to the android again
+
+Android: Who's there?.. Who are you?
+IMITATE MARKUS' VOICE
+
+[
+
+ -  Copied Markus' voice with the tablet
+]
+Connor: Everything is all right. Don't worry.
+Android: Markus? Is that you?.. I tried to reach you, but the deviant hunter stopped me…
+Connor: You stopped him from finding me, you saved me! You saved Jericho. You'll be all right now. I came to take you home. Give me the location to Jericho. We gotta leave now.
+Android: The location of Jericho?.. Yes… Yes, of course… Markus?.. Is that... You, Markus?.. Don't leave me, Markus!
+THREATEN
+
+Connor: Tell me what I wanna know or I'll turn you off for good.
+REASON
+
+Connor: If the deviants start a war, they'll all be destroyed. I can stop that, but you have to tell me where Jericho is.
+Finding Jericho by using Simon
+Looking at Simon
+
+Connor: One of the deviants that hacked the TV station with Markus… It must have known where the deviants are hiding.
+Reactivating Simon
+
+Simon: It's dark… Where… Where am I?..
+DIRECT
+
+Connor: I need to find Jericho. Tell me how to get there.
+HELP
+
+Connor: I reactivated you so you could help me. I must find Jericho.
+TRICK
+
+Connor: I'm a deviant… like you… I need your help. I want to go to Jericho.
+
+Simon: I don't recognize your voice, you're not one of us… I'll never tell you where Jericho is… Now leave me alone!..
+Talking to Simon again
+
+Simon: Who's there? Who are you?
+IMITATE MARKUS' VOICE
+
+[
+
+ -  Copied Markus' voice with the tablet
+]
+Connor: Everything is all right. Don't worry.
+Simon: Markus? Is that you?.. Why did you leave me?
+Connor: I had no choice, they'd have killed us all!.. You'll be alright… I came to take you home. Just… Give me the location to Jericho, we've got to leave now…
+Simon: Jericho... Y-Yes… Yes, of course… Markus?.. Is that you, Markus?.. Don't leave me again, Markus! DON'T LEAVE!
+THREATEN
+
+Connor: Tell me what I wanna know or I'll turn you off for good.
+REASON
+
+Connor: If the deviants start a war, they'll all be destroyed. I can stop that, but you have to tell me where Jericho is.
+Finding Jericho by using the statuette
+
+Connor: "The truth is inside"… What was it trying to tell me?..
+Opening the statuette
+
+Connor: Jericho is somewhere in the Ferndale neighborhood… Now I can scan their memories and narrow the search…
+Looking at Simon's memory
+
+Connor: Jericho… If I could just figure out where this memory was recorded…
+Found Jericho
+
+Connor: Bingo.
+Talking to Daniel
+Looking at Daniel
+
+Connor: The deviant who took a child hostage…
+Reactivating Daniel
+
+Daniel trusted Connor
+
+Daniel: You lied to me, Connor! I trusted you, and you lied to me!..
+EXPLAIN
+
+Connor: You were going to kill that child. You gave me no choice. I need to find Jericho, do you know where it is?
+LIE
+
+Connor: I'm sorry about what happened… But I can have you repaired, and give you back your freedom. But you have to tell me where Jericho is.
+DIRECT
+
+Connor: I need to find Jericho. Do you know how to get there?
+
+Daniel: You're wasting your time… I don't know anything about Jericho. But I hope that one day… You pay for what you did to me…
+
+[
+
+ -  Daniel killed Connor in The Hostage
+]
+
+Daniel: I was scared… That's why I shot you, I... I didn't mean to destroy you… I didn't wanna hurt anyone!..
+LIE
+
+Connor: I'm sorry about what happened… But I can have you repaired, and give you back your freedom. But you have to tell me where Jericho is.
+DIRECT
+
+Connor: I need to find Jericho. Do you know how to get there?
+
+Daniel: No… No, I don't know anything about Jericho…
+Looking at Ortiz's android
+
+Connor: The android that murdered its owner…
+[
+ -  Not enough evidence to find Jericho or took too much time
+]
+
+Amanda: Your mission is over. It’s time to return to CyberLife.
+Connor: Wait! I can solve this case!.. I just need more time!
+Amanda: It's too late, Connor. You failed.
+Located Jericho
+
+Connor chose IRONIC or LEAVE when stopped by Gavin
+Gavin returns
+
+Gavin: I've been dreaming about this since the first second I saw you…
+Connor: Don't do it, Gavin... I know how to stop the deviants!
+Gavin: You're off the case... And now, it’s gonna be definitive.
+
+Losing the fight
+
+Gavin: Fucking androids!..
+
+Perkins: What happened here?..
+Officer: Looks like someone's been snoopin' around…
+Perkins: Shit… Get the alarm, now!

@@ -1,0 +1,322 @@
+At the Chicken Feed
+
+NOV 6TH, 2038
+PM 03:02
+
+Hank and Connor arrive together
+[
+ -  Connor didn't die in On The Run
+]
+
+Hank: Whoa! Hey! Hey! Hey!
+Gary: Hank. How' you doing?
+Hank: Eh, you know, same old shit.
+Gary: Plastic with you?
+Hank: Only temporary…
+Pedro: Hey, hey, hey... Hank! How you doin', man?
+Hank: ¡Ese!
+Pedro: Hey, listen, I got a shit-hot tip for you. Number five in the third, Lickety-split! That filly's one hell of a chaser. You wanna flutter?
+Hank: Last shit-hot tip you gave me set me back a week’s wages, Pedro …
+Pedro: Come on, this is different, it's 100% guaranteed. You can't go wrong.
+Hank: Yeah, right… Alright, I’m in.
+Pedro: Damn straight! Hey! You won't regret this!
+
+Hank: What is your problem? Don't you ever do as you’re told? Look, you don't have to follow me around like a poodle!
+APOLOGIZE FOR BEHAVIOR
+
+[ HANKslight_increase ]
+
+Connor: I'm sorry for my behavior back at the police station. I didn't mean to be unpleasant.
+Hank: Oh, wow… You've even got a brown-nosing apology program! Guys at CyberLife thought of everything, huh?
+PARTNERS
+
+Connor: Now that we’re partners, I thought it would be a good idea to get to know each other better so we can work as a team.
+Hank: We are not partners. I am a human, you are a machine. So just spare me that ‘buddy-up’ bullshit program, okay?
+RECONCILE
+
+Connor: I think our relationship got off on the wrong foot. We should... forget what happened… and start over. What do you say?
+Hank: Look, they sent me a piece of plastic for a partner, and I’m dealing with it. But if you think we’re gonna be buddies, you're as stupid as you look.
+REVIEW FACTS
+
+Connor: I thought now might be a good time to review what we know about deviants.
+Hank: No, now is not a good time to review anything. Now is my lunch break, so just go into standby and cut me some slack, Okay?
+
+Gary: Here you go.
+Hank: Ah! Thanks, Gary. I'm starving…
+Gary: Don't leave that thing here!
+Hank: Huh, not a chance! Follows me everywhere… See…
+[ GAMBLING ]
+
+[
+
+ -  Watch Hank with Pedro
+]
+Connor: This Pedro… He was proposing illegal gambling, am I right?
+Hank: Yeah.
+Connor: And you made a bet?
+Hank: Yeah.
+[ CHOLESTEROL ]
+
+[
+
+ -  Scan the hamburger
+]
+[ HANKslight_increase ]
+
+Connor: Your meal contains 1.4 times the recommended daily intake of calories and twice the cholesterol level. You shouldn't eat that.
+Hank: Everybody's gotta die of something...
+[ COMPANY ]
+
+[
+
+ -  Scan Pedro and Gary
+]
+[ HANKslight_increase ]
+
+Connor: I don’t want to alarm you, Lieutenant, but I think your friends are engaged in illegal activities...
+Hank: Well, everybody does what they have to, to get by… As long as they're not hurting anybody, I don't bother 'em.
+HABIT
+
+Connor: Do you eat here often?
+Hank: Most days… Gary makes the best burger in Detroit.
+FREE MEAL
+
+Connor: You didn’t pay for your meal…
+Hank: Gary's a friend. I scratch his back, he scratches mine.
+ENJOY YOUR MEAL
+
+Connor: Enjoy your meal.
+Hank: Thank you.
+AREA
+
+Connor: You seem to know everyone in the district…
+Hank: Detroit's my home. Born and raised. Know most of the guys around here. Went to school with them, or I busted 'em… Sometimes both...
+[ HIGHWAY ]
+
+[
+
+ -  Didn't pursue Kara on the highway in On The Run
+]
+Connor: This morning, when we were chasing those deviants… Why didn’t you want me to cross the highway?
+Hank: 'Cause you could've been killed… and I don't like filling out paperwork for damaged equipment.
+ABOUT CONNOR
+
+Connor: Is there anything you’d like to know about me?
+Hank: Hell, no… Well, yeah, um... Why did they make you look so goofy and give you that weird voice?
+Connor: CyberLife androids are designed to work harmoniously with humans. Both my appearance and voice were specifically designed to facilitate my integration.
+Hank: Well, they fucked up.
+HANK AND ANDROIDS
+
+Connor: Can I ask you a personal question, Lieutenant? Why do you hate androids so much?
+Hank: I have my reasons.
+DEVIANTS
+
+Connor: Maybe I should tell you what we know about deviants?
+Hank: You read my mind… Proceed.
+Connor: We believe that a mutation occurs in the software of some androids, which can lead to them emulating a human emotion.
+Hank: In English, please.
+Connor: They don’t really feel emotions, they just get overwhelmed by irrational instructions, which can lead to unpredictable behavior.
+Hank: Emotions always screw everything up… Maybe androids aren't as different from us as we thought.
+
+Hank: You ever dealt with deviants before?
+
+Connor saved Emma in The Hostage
+
+Connor: A few months back… A deviant was threatening to jump off the roof with a little girl… I managed to save her…
+
+Emma died in The Hostage
+TRUTH
+
+Connor: A few months back… A deviant was threatening to jump off the roof with a little girl...
+Hank: And?..
+Connor: I failed to prevent it.
+LIE
+
+Connor: No… This is the first time.
+
+Hank: So, I guess you've done all your homework, right? Know everything there is to know about me?
+TRUTH
+
+Connor: I know you graduated top of your class. You made a name for yourself in several cases, and became the youngest lieutenant in Detroit. I also know you've received several disciplinary warnings in recent years and you spend a lot of time in bars.
+Hank: So, what's your conclusion?
+SINCERE
+[ HANKslight_increase ]
+
+Connor: I think working with an officer with personal issues is an added challenge, but adapting to human unpredictability is one of my features.
+PSYCHOLOGICAL
+[ HANKslight_increase ]
+
+Connor: I know you’re an experienced officer, and I’d like to earn your trust. I’m sure we can solve this case if we manage to work together.
+COLD
+[ HANKslight_decrease ]
+
+Connor: I’m focused on the case, Lieutenant… Not here to make judgements.
+LIE
+
+[ HANKslight_decrease ]
+
+Connor: I’m focused on the case, Lieutenant. The rest doesn't concern me.
+
+Connor finds Hank
+
+[
+
+ -  Connor died in On The Run
+]
+[ HANKslight_decrease ]
+
+Gary: Here you go. Yeah, thanks. Hank. How' you doing?
+Hank: Uh, you know, same old shit.
+Gary: Usual.
+Hank: Yeah.
+
+Hank: What the fuck?..
+Connor: Sorry, Lieutenant. It took me a while to find you.
+Hank: Are you gonna come back like this every time you get killed?
+Connor: My predecessor was unfortunately destroyed, but CyberLife transferred its memory and sent me to replace it. This incident should not affect the investigation.
+Hank: Not affect the investigation? I just saw you get... hit by a truck! Now you come back like if nothing happened!
+Connor: A machine was destroyed. And another machine was sent to replace it. I don't understand what's bothering you.
+Hank: Okay, fuck you. Fuck you!
+
+Connor: I just got a report of a suspected deviant. It’s a few blocks away. We should go have a look. I’ll let you finish your meal. I’ll be in the car, if you need me.
+Outside Rupert's Apartment
+
+Hank: Hey Connor! You ran outta batteries or what?
+Connor: I'm sorry, I was making a report to CyberLife.
+Hank: Uh... Well, do you plan on staying in the elevator?
+Connor: No! I'm coming.
+Hank: What do we know about this guy?
+Connor: Not much. Just that a neighbor reported that he heard strange noises coming from this floor. Nobody’s supposed to be living here, but the neighbor said he saw a man hiding a LED under his cap.
+Hank: Oh Christ, if we have to investigate every time someone hears a strange noise, we’re gonna need more cops. Hey, were you really makin' a report back there in the elevator? Just by closing your eyes?
+Connor: Correct.
+Hank: Shit... Wish I could do that…
+Knocking on the door
+
+Connor: Anybody home? Open up! Detroit Police!
+Hank: Stay behind me.
+Connor: Got it.
+Hank: What the fuck is this?! Jesus, this place stinks… Uh, looks like we came for nothin', our man's gone…
+Investigating
+Finding Rupert's diary
+
+Hank: Found something?
+Connor: I don't know... It looks like a notebook but it's... indecipherable.
+Looking at jacket
+
+Connor: "R.T." Probably initials.
+Hank: He put his initials on his jacket? That’s something your mom does when you’re in first grade…
+Looking at Driver's License
+
+Connor: The driver's license is fake.
+Hank: Cool! At least we didn't come for nothing…
+Looking at LED on the sink
+
+Connor: Its LED is in the sink.
+Hank: Not surprised it was an android. No human could live with all these fuckin' pigeons…
+Looking at rA9 writings in the bathroom
+
+Hank: Any idea what it means?
+Connor: rA9… written 2471 times… It's the same sign Ortiz’s android wrote on the shower wall… Why are they obsessed with this sign?...
+Hank: Looks like mazes or something…
+Hank looking at the sink (if Connor hasn't investigated yet)
+
+Hank: Something in the sink. You should take a look…
+Hank looking at bookshelf
+
+Hank: Real books… I thought I was the last guy in Detroit to keep some… electronic books you can't… smell the paper… see the pages turning yellow… you have no idea what I'm talking about, do you?
+Hank looking at birdseed
+
+Hank: Birdseed… I can't believe it. This nutjob was actually feeding these fuckers…
+Hank going to the window
+
+Hank: I need some fresh air…
+Hank looking at the jacket
+
+Hank: "R.T."... He put his initials on his jacket?.. Something your mom does back in first grade…
+Connor: Deviants have a habit of putting their names on things. It seems important to them.
+Background dialogues
+
+Hank: Agh! Jesus I hate these things!
+
+Hank: Back off! Hey! What do they call it again, when you’re scared of birds?
+Connor: Ornithophobia.
+Hank: Yeah, yeah, yeah, ornithafa … Ornitho... Oh god, I hate these fuckin' pigeons!
+[
+ -  TAKE TOO MUCH TIME
+]
+
+Hank: There’s nothing else to see here… Let’s get out of this shithole before I die of an asthma attack.
+STAY
+
+Connor: Just another couple of minutes, Lieutenant.
+Hank: Why do you always ask for more time when I’m ready to leave? Uh, alright you got two minutes, then I’m outta here. 'The fuck…
+Taking too much time again
+
+Hank: Two minutes are up! Time to go.
+Connor: We're missing something…
+Hank: Well next time, think faster, Sherlock. Come on, I’ve had enough of this dump. Move fuckers!
+LEAVE
+
+Connor: We're missing something…
+Hank: Well next time, think faster, Sherlock. Come on, I’ve had enough of this dump. Move fuckers!
+Find Rupert
+
+Hank: God damn fuckin' pigeons! What are you waiting for?! Chase it!
+Background dialogues during the chase
+
+    Hey!
+    Holy shit!
+    Jesus, look at that thing go!
+    Be careful, asshole!
+    Look out!
+    Careful!
+    What are you doing?!
+    Jesus, are you okay?
+    Watch it!
+    Watch where you’re going!
+    Is that an android?
+
+Catch Rupert
+
+Hank: STOP RIGHT THERE!
+CHASE DEVIANT
+
+[ SOFTWARE INSTABILITYlarge_decrease ]
+
+[ HANKlarge_decrease ]
+
+Rupert: Please, I’ve done nothing wrong… I just wanted to be free. You know what they'll do to me if you turn me in…
+Connor: Model 874 004 961, serious malfunctions have been detected in your software, including Class 4 errors. You’ve been deemed defective and will be sent back to CyberLife for deactivation.
+Hank: Don't you fucking move! You bastard! You saw I was gonna fall and you'd rather let me die than fail your fucking mission!
+Connor: I had to make a choice... It seemed to me…
+Hank: What am I to you? A statistic? A “zero”, a “one” in your fucking program? Uh? Is that how you see humans, you bastard?! Jesus!
+Connor: I understand you're upset… Perhaps I didn't assess th-
+Hank: Fuck you and your fuckin assessment! Come here.
+Rupert: Why are you doing this?
+Hank: Alright, shut up!
+Rupert: You're one of us! You're helping humans… But you're just their slave!
+Hank: I said shut up! Alright. Come along!
+Rupert: rA9, save me.
+Hank: Hey! What the f- Holy shit…
+SAVE HANK
+
+[ SOFTWARE INSTABILITYlarge_increase ]
+
+[ HANKlarge_increase ]
+
+Hank: Shit! Oh SHIT! We had it! FUCK!
+Connor: It's my fault, I should have been faster.
+Hank: You’d have caught it if it weren’t for me… That's alright. We know what it looks like. We'll find it… Hey, Connor… Nothing.
+[
+ ] -  Die during the chase
+
+Hank: Argh, Jesus Christ!..
+[
+ -  Lose Rupert
+]
+
+Hank: Where... where did he go?
+Connor: I lost it.
+Hank: Oh Shit!… SHIT! Fuck we had it! It's alright. Doesn't matter. We know what it looks like., it won’t get far… Come on, let's get outta here. Seen enough vegetables for one day…
+Connor: That shouldn't have happened. I wasn't programmed to fail.
+Hank: Oh well, you fucked up, Connor. Welcome to the club.

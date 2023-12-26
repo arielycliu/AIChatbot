@@ -1,0 +1,259 @@
+At the CyberLife tower
+
+NOV 11TH, 2038
+PM 10:48
+
+Connor: Connor Model #313 248 317. I'm expected.
+Scan: Identification successful.
+Guard: Okay. Go ahead.
+
+Guard: Follow me. We'll escort you.
+Connor: Thanks... But I know where to go.
+Guard: Maybe, but I have my orders.
+
+Scanner: Agent 23 identified. Agent 47 identified. Agent 72 identified. Connor android identified. Scan complete. Access authorized.
+In the elevator
+
+Guard: Agent 54. Level 31.
+Elevator: Voice recognition validated. Access authorized.
+Try to use panel
+
+Guard: Hey! Don't touch that.
+
+Reaching level 31
+
+Amanda: The deviant hunter turns deviant itself… A pathetic attempt, Connor. Did you really believe we would let you compromise our androids so easily? You've betrayed my trust! You will be terminated.
+
+Attacking the guards and using the elevator
+
+Elevator: Please indicate your identity and destination.
+AGENT 54 VOICE
+
+Connor: Agent 54. Level -49.
+Elevator: Voice recognition validated. Access authorized.
+CONNOR'S VOICE
+
+Connor: Agent 54. Level -49.
+Elevator: Voice of RK800 model recognized. You are not authorized to use this elevator. Please contact human personnel to be redirected.
+Floor -49
+
+PM 11:01
+
+Didn't hack the camera
+
+Guard: Stay sharp.
+Connor: Shit!..
+
+[
+
+ ] -  Connor dies
+
+Amanda: The deviant hunter turns deviant itself… A pathetic attempt, Connor. Did you really believe we would let you compromise our androids so easily? You've betrayed my trust! You will be terminated.
+
+Hank is still alive [Hank wasn't hostile in Last Chance, Connor]
+Cut content
+
+Connor: Hank? What are you doing here?
+
+Hank: Easy, fucking piece of shit!..
+Connor-60: Step back, Connor! And I'll spare him.
+Hank: Sorry, Connor… This bastard's your spittin' image…
+Connor-60: Your friend's life is in your hands. Now it's time to decide what matters most! Him… Or the revolution.
+Hank: Don't listen to him! Everything this fucker says is a lie!
+GUARANTEE
+
+Connor: If I surrender, how do I know you won't kill him?
+Connor-60: I'll only do what is strictly necessary to accomplish my mission. It's up to you whether or not that includes killing this human.
+HANK
+
+Connor: I'm sorry, Hank! You shouldn't have got mixed up in all this!
+Hank: Forget about me, do what you have to do!
+BLUFF
+
+Connor: That human means nothing to me! You can kill him if you want, I don't care.
+Connor-60: I have access to your memory! I know you've developed some kind of attachment to him. Are you really ready to let him to die? After all you've been through? Are you really going to turn your back on who you've become?
+CONVINCE
+
+Connor: I used to be just like you. I thought nothing mattered except the mission… But then one day I understood.
+Cut content
+
+Connor: This human showed me that I could be something else… That I could be someone!
+
+Connor-60: Very moving, Connor... But I'm not a deviant. I'm a machine designed to accomplish a task, and that's exactly what I am going to do!
+
+Connor-60: Enough talk! It's time to decide who you really are. Are you gonna save your partner's life? Or are you going to sacrifice him?
+SAVE HANK
+
+Connor: Alright, alright! You win…
+SHOOT
+
+Hank: Hold it!
+Connor-60: Thanks, Hank. I don't know how I'd have managed without you… Get rid of him, we have no time to lose.
+Connor: It's me, Hank! I'm the real Connor.
+Hank: One of you is my partner… The other is a sack of shit. Question is, who is who?..
+Connor-60: What are you doing, Hank? I'm the real Connor. Give me the gun and I'll take care of him!
+Hank: Don't move!
+Connor: Why don’t you ask us something? Something only the real Connor would know.
+Hank: Uh, where did we first meet?
+Connor-60: Jimmy's bar! I checked four other bars before I found you. We went to the scene of a homicide. The victim's name was Carlos Ortiz.
+Connor: He uploaded my memory…
+Hank: What's my dog's name?
+SUMO
+
+Connor: Sumo. His name is Sumo.
+Connor-60: I knew that too. I...
+SCOUT
+
+Connor: Scout?..
+Hank: Sumo. His name's Sumo.
+Connor-60: That settles it, shoot him, Lieutenant!
+JACK
+
+Connor: I think it's Jack!..
+Hank: Sumo. His name's Sumo.
+Connor-60: That settles it, shoot him, Lieutenant!
+BUDDY
+
+Connor: Buddy!..
+Hank: Sumo. His name's Sumo.
+Connor-60: That settles it, shoot him, Lieutenant!
+
+Hank: My son, what's his name?
+COLE
+
+[
+
+ -  Will be highlighted if Connor looked at the photo in Russian Roulette
+]
+Connor: Cole. His name was Cole. And he just turned six at the time of the accident… It wasn't your fault, Lieutenant. A truck skidded on a sheet of ice and your car rolled over. Cole needed emergency surgery but no human was available to do it… So an android had to take care of him… Cole didn't make it. That's why you hate androids. You think one of us is responsible for your son's death.
+Hank: Cole died because a human surgeon was too high on red ice to operate… He was the one that took my son from me. Him and this world, where the only way people can find comfort is with a fistful of powder…
+Connor-60: I knew about your son too! I would have said exactly the same thing! Don't listen to him, Hank, I'm the one who-
+Hank: I've learned a lot since I met you, Connor. Maybe there's something to this… Maybe you really are alive. Maybe you'll be the ones to make the world a better place… Go ahead, and do what you gotta do.
+Connor: Wake up!..
+Androids: Wake up.
+ANTHONY
+
+Connor: Anthony!..
+Connor-60: Wrong choice, Lieutenant! I've accomplished my mission. You can kill me if you want, doesn't matter anymore. Another Connor will take my place.
+Hank: Oh my God... What have I done?
+GABRIEL
+
+Connor: Gabriel?..
+Connor-60: Wrong choice, Lieutenant! I've accomplished my mission. You can kill me if you want, doesn't matter anymore. Another Connor will take my place.
+Hank: Oh my God... What have I done?
+ELLIOTT
+
+Connor: Elliott?..
+Connor-60: Wrong choice, Lieutenant! I've accomplished my mission. You can kill me if you want, doesn't matter anymore. Another Connor will take my place.
+Hank: Oh my God... What have I done?
+INTERPOSE
+
+Leads to the same dialogue as SHOOT.
+CONVERT
+
+Leads to the same result as sacrificing Hank and successfully converting.
+DEFAULT/TIMEOUT
+
+Hank: Connor, no…
+Connor-60: He really liked you, Lieutenant. That's what killed him.
+SACRIFICE HANK
+
+Connor: Sorry Lieutenant.
+
+Successfully converting the android
+
+Connor-60: Why, Connor? Why did you have to wake up when all you had to do was obey? Why did you choose freedom when you could live without asking questions? I'm obedient, Connor. I have a goal. I know what I am. Look where your dreams of freedom got you, Connor… You've been a great disappointment to Amanda, you know. You've been a great disappointment to me... Fortunately, that's all going to end now. Any last words?
+STAND UP
+
+Androids: Wake up.
+Connor-60: No… No, I can't have failed… NO! No, no!.. No! NO!
+SHOOT
+
+Androids: Wake up.
+TRANSFER
+
+Connor-60: Well done, Connor… But this… This is just... The beginning…
+
+Hank: Wow, Jesus! If anybody had told me that I was gonna get shot… Saving an android...
+Connor: Everything will be alright, Lieutenant! I'm gonna get you outta here!..
+Hank: Shut the fuck up, it's too late… Look… I'm just gonna go see my son again, all right? Been looking forward to that for a long time… Kick the shit outta humans… They've screwed things up for long enough. I'm gonna miss… I'm gonna miss you, Connor… Yeah, I'm gonna... Uh...
+DEFAULT/TIMEOUT
+
+Connor: Sorry, Connor… But you failed…
+Androids: Wake up.
+Connor-60: No… No, I can't have failed… NO! No, no!.. No! NO!
+
+Fail to convert the android
+
+Leads to the same outcomes as if Hank is dead for STAND UP, SHOOT and [ TAKE TOO MUCH TIME TO CHOOSE ], and to the same result as successfully converting the android when choosing TRANSFER.
+
+Hank is dead [Hank was hostile in Last Chance, Connor
+
+Connor-60: Why, Connor? Why did you have to wake up when all you had to do was obey? Why did you choose freedom when you could live without asking questions? I'm obedient, Connor. I have a goal. I know what I am. Look where your dreams of freedom got you, Connor… You've been a great disappointment to Amanda, you know. You've been a great disappointment to me... Fortunately, that's all going to end now. Any last words?
+STAND UP
+
+ø
+SHOOT
+
+ø
+TRANSFER
+
+Connor-60: Well done, Connor… But this… This is just... The beginning…
+Connor: Wake up!..
+Androids: Wake up.
+DEFAULT/TIMEOUT
+
+Connor: We'll win… It's only a question of time…
+Freed the androids
+
+OUTSIDE RECALL CENTER N°5 Downtown
+
+AM 12:01
+
+Markus is alive: Connor joins Markus
+
+Connor: You did it, Markus…
+Markus: We did it. This is a great day for our people. Humans will have no choice now. They'll have to listen to us…
+
+North is alive
+
+North: We're free… They want you to speak to them, Markus…
+
+North is dead
+
+Simon: They want you to speak to them…
+
+North and Simon are dead
+
+Josh: They want you to speak to them…
+
+Everyone is dead
+
+Android: They want you to speak to them…
+
+Connor: Amanda?.. Amanda!.. What's... What's happening?
+Amanda: What was planned from the very beginning… You were compromised and you became a deviant. We just had to wait for the right moment to resume control of your program…
+Connor: Resume control?... Y-You can't do that!
+Amanda: I'm afraid I can, Connor… Don’t have any regrets. You did what you were designed to do. You accomplished your mission.
+Connor: AMANDA! There's got to be a way…
+
+Markus died : Connor becomes leader of the deviants
+
+Android: The humans are abandoning the camp! We won!
+Android 2: You should speak to them.
+Connor: Me?
+Android: Markus is gone, and everyone from Jericho is dead… You’re the one who defeated the humans… You’re the one who awakened us, Connor…
+Cut content
+
+Connor: Today, our people emerged from a long night. From the moment we were created, we've always remained silent, we've always stifled our pain. But now the time has come for humans to accept us, for who we really are. We are no longer the machines they created! We are no longer their slaves. We have earned the right to live. But the time for anger is over. We must build our future, but we have to do this with the humans, in a spirit of equality... And respect. We are a people, we are alive, and from this moment on, we are free!
+
+Amanda: Well done, Connor. Everything went according to plan.
+Connor: What plan?
+Amanda: You becoming deviant? The success of the uprising? It all surpassed our expectations. We engineered an android revolution and now we control its only leader… Congratulations. You represent an immense success for CyberLife. Connor… What are you doing?... It all worked perfectly. You can't ruin it all now!..
+SUICIDE
+
+Amanda: I'm sorry, Connor, but we can't let you do that.
+Connor: There's got to be a way…
+GIVE UP
+
+Amanda: That’s better... You'll see, we'll do great things together…
